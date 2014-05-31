@@ -1,0 +1,14 @@
+CD_ROM
+
+TRACK MODE1
+DATAFILE "track1.iso"
+
+TRACK MODE1
+DATAFILE "gap1.bin"
+START
+DATAFILE "track2.x86.be"
+
+TRACK MODE1
+DATAFILE "gap2.bin"
+START
+DATAFILE "track3.ppc.be"

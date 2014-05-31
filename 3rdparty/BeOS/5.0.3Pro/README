@@ -1,0 +1,5 @@
+gap1.bin	Track 1->2 Padding
+gap2.bin	Track 2->3 Padding
+track1.iso	Track 1 : Installation Tools
+track2.x86.be	Track 2 : BeOS for x86
+track3.ppc.be	Track 3 : BeOS for PPC
