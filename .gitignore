@@ -55,4 +55,5 @@ sgi/irix/6.2/S999_6.2_Patches_for_IRIX_with_Indigo2_1996_08/
 sgi/irix/6.2/S999_6.2_Required_Patch_Sets/
 sgi/irix/6.2/irix-6.2-development-libraries/
 sgi/irix/6.2/irix-development-foundation-1.2-for-irix-6.2/
+apple/Darwin/darwinx86-801/
 *.template
