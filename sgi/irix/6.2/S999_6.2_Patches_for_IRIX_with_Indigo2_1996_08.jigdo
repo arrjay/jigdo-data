@@ -1,0 +1,29 @@
+# JigsawDownload
+# See <http://atterer.net/jigdo/> for details about jigdo
+
+[Jigdo]
+Version=1.2
+Generator=jigdo-file/0.7.3
+
+[Image]
+Filename=S999_6.2_Patches_for_IRIX_with_Indigo2_1996_08.efs.img
+Template=S999_6.2_Patches_for_IRIX_with_Indigo2_1996_08.template
+Template-MD5Sum=hO3VZiVSxPCWX3rC_lyJ4Q
+
+[Servers]
+A=file:
+
+[Parts]
+dbk-OwAjNN1_7ZDAROfdgw=A:S999_6.2_Patches_for_IRIX_with_Indigo2_1996_08/CDrelnotes
+15t7U-1ZTDp-1omN0NPyAA=A:S999_6.2_Patches_for_IRIX_with_Indigo2_1996_08/dist/patchSG0001406.idb
+KQJQOnyd4P49TMgObJlXBA=A:S999_6.2_Patches_for_IRIX_with_Indigo2_1996_08/dist/patchSG0001406.x_eoe_sw64
+1G37SbbF9Xt8F2DZjAvuVQ=A:S999_6.2_Patches_for_IRIX_with_Indigo2_1996_08/dist/patchSG0001447.eoe_sw64
+ZArzai1Kl7_PFcPLBsguyw=A:S999_6.2_Patches_for_IRIX_with_Indigo2_1996_08/dist/patchSG0001447.idb
+r6bfdoJAqsGhKKbUXGigsQ=A:S999_6.2_Patches_for_IRIX_with_Indigo2_1996_08/dist/patchSG0001447
+UPECyIVxUbLxgEo8_ExPrg=A:S999_6.2_Patches_for_IRIX_with_Indigo2_1996_08/dist/patchSG0001472.eoe_sw32
+QsIhGEqWRxHBei3849CVmw=A:S999_6.2_Patches_for_IRIX_with_Indigo2_1996_08/dist/patchSG0001472.eoe_sw64
+oWCDBOxXPbjASK0a-f12VA=A:S999_6.2_Patches_for_IRIX_with_Indigo2_1996_08/dist/patchSG0001472.idb
+UWDIgROpiTJeGRkOGOQy7Q=A:S999_6.2_Patches_for_IRIX_with_Indigo2_1996_08/dist/patchSG0001472
+vmtQ2S_g_lkP2js06NXoEw=A:S999_6.2_Patches_for_IRIX_with_Indigo2_1996_08/relnotes/patchSG0001406/ch1.z
+GveXKZyr7eaXmxqSuIedhw=A:S999_6.2_Patches_for_IRIX_with_Indigo2_1996_08/relnotes/patchSG0001447/ch1.z
+6gLHhLZJyTRyu_T_bYNkqg=A:S999_6.2_Patches_for_IRIX_with_Indigo2_1996_08/relnotes/patchSG0001472/ch1.z

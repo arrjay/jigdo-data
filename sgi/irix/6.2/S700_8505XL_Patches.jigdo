@@ -1,0 +1,34 @@
+# JigsawDownload
+# See <http://atterer.net/jigdo/> for details about jigdo
+
+[Jigdo]
+Version=1.2
+Generator=jigdo-file/0.7.3
+
+[Image]
+Filename=S700_8505XL_Patches.efs.img
+Template=S700_8505XL_Patches.template
+Template-MD5Sum=n_d94D4Lp9e_Bpc7oneCmg
+
+[Servers]
+A=file:
+
+[Parts]
+dbk-OwAjNN1_7ZDAROfdgw=A:S700_8505XL_Patches/CDrelnotes
+-WkuXB2mf4h5IlO2YjcEjw=A:S700_8505XL_Patches/dist/patchSG0000308.idb
+ds4iXKwn_47M3cSBiv24-Q=A:S700_8505XL_Patches/dist/patchSG0000528.eoe2_sw
+VEhnI_2g6Z_ihZsMvP7TUg=A:S700_8505XL_Patches/dist/patchSG0000528.idb
+aX0mqvlv9g3LcHXoDgSJsQ=A:S700_8505XL_Patches/dist/patchSG0000528
+Zvq344rPxSK6wl0U2GBREQ=A:S700_8505XL_Patches/dist/patchSG0000529.idb
+OILNK7cWBFDkRmAm773B0A=A:S700_8505XL_Patches/dist/patchSG0000739.idb
+SmLwk34wyjOSyiUDa_Jx3g=A:S700_8505XL_Patches/dist/patchSG0000739
+-9TPOs42b8E57XR9SLlR7A=A:S700_8505XL_Patches/dist/patchSG0000763.idb
+2Vi0JH9OEUZiKct6T0BOPQ=A:S700_8505XL_Patches/relnotes/patchSG0000308/ch1.z
+W0BKbWVLThEpjEykFgdFyg=A:S700_8505XL_Patches/relnotes/patchSG0000479/ch1.z
+wgbz0umN7viAaW54F8-oeQ=A:S700_8505XL_Patches/relnotes/patchSG0000528/ch1.z
+fJ8wVwWkicXqgc4-3caS6Q=A:S700_8505XL_Patches/relnotes/patchSG0000529/ch1.z
+dOzrscbMe_jTN6fDlpOr8g=A:S700_8505XL_Patches/relnotes/patchSG0000667/ch1.z
+5dSe2diFyEncRhv-aN3P_A=A:S700_8505XL_Patches/relnotes/patchSG0000739/ch1.z
+jOvD29d1ETtF_weC1uhxkw=A:S700_8505XL_Patches/relnotes/patchSG0000742/ch1.z
+xNN43MlO9dRoLPfMAJ1B8A=A:S700_8505XL_Patches/relnotes/patchSG0000763/ch1.z
+tNr7ZGuZFTZu3Apsi4s5IQ=A:S700_8505XL_Patches/relnotes/patchSG0000764/ch1.z

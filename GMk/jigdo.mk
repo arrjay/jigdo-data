@@ -14,3 +14,6 @@ endef
 
 %.tar : % %.jigdo %.template
 	$(run-jigdo)
+
+%.tardist : % %.jigdo %.template
+	$(run-jigdo)

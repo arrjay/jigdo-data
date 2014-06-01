@@ -42,4 +42,17 @@ sgi/enlightendsm/S700_EnlightenDSM_2.6.0/
 sgi/hotmix/SGI_Hot_Mix_19/
 microsoft/windows/NT4/NTSRV40A/
 microsoft/windows/NT4/NTWKS40A/
+sgi/irix/6.2/S200_6.2_IRIX_1/
+sgi/irix/6.2/S200_6.2_IRIX_with_Indigo2_IMPACT_10000_1/
+sgi/irix/6.2/S201_6.2_IRIX_2/
+sgi/irix/6.2/S201_6.2_IRIX_with_Indigo2_IMPACT_10000_2/
+sgi/irix/6.2/S300_6.?2-3?_IRIS_Development_Option_7.0.1/
+sgi/irix/6.2/S700_6.2_Applications_1996_08/
+sgi/irix/6.2/S700_8505XL_Patches/
+sgi/irix/6.2/S700_Desktop_Special_Edition_1.1/
+sgi/irix/6.2/S700_Visual_Magic_Tools_1.0/
+sgi/irix/6.2/S999_6.2_Patches_for_IRIX_with_Indigo2_1996_08/
+sgi/irix/6.2/S999_6.2_Required_Patch_Sets/
+sgi/irix/6.2/irix-6.2-development-libraries/
+sgi/irix/6.2/irix-development-foundation-1.2-for-irix-6.2/
 *.template
