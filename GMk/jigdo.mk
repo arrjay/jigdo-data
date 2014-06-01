@@ -8,3 +8,9 @@ endef
 
 %.iso : % %.jigdo %.template
 	$(run-jigdo)
+
+%.efs.img : % %.jigdo %.template
+	$(run-jigdo)
+
+%.tar : % %.jigdo %.template
+	$(run-jigdo)
