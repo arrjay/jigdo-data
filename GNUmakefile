@@ -8,6 +8,26 @@
 % :
 	$(MAKE) -C $(@D) -I $(CURDIR)/GMk $(@F)
 
-# Weird Targets
-BeOS5Pro : 3rdparty/BeOS/5.0.3Pro/track1.iso 3rdparty/BeOS/5.0.3Pro/track2.x86.be 3rdparty/BeOS/5.0.3Pro/track3.ppc.be
-	@echo "Track dependencies assembled, you must run cdrdao against 3rdparty/BeOS/5.0.3Pro/BeOS-R5.0.3.toc"
+# Generic go clean-something target
+%.clean : %
+	$(MAKE) -C $(@D) -I $(CURDIR)/GMk clean
+
+# Generic go-make-everything target
+%.all : %
+	$(MAKE) -C $(@D) -I $(CURDIR)/GMk all
+
+# directory objects are defined here
+BEOS5	:= 3rdparty/BeOS/5.0.3Pro/
+ALL	:= $(BEOS5)
+
+RECURSIVE_CLEAN = $(patsubst %,%.clean,$(ALL))
+RECURSIVE_ASSEMBLE = $(patsubst %,%.all,$(ALL))
+
+BeOS5 : $(BEOS5)/GNUmakefile
+	$(MAKE) -C $(BEOS5) -I $(CURDIR)/GMk all
+
+clean-recursive : $(RECURSIVE_CLEAN)
+	echo $(RECURSIVE_CLEAN)
+
+all-recursive : $(RECURSIVE_ASSEMBLE)
+	echo $(RECURSIVE_ASSEMBLE)
