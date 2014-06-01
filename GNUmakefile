@@ -1,5 +1,9 @@
 # Only tested under GNU make!
 
+# Go-encrypt-something target
+%.gpg : %
+	gpg -r 2EFA9C77 --encrypt $(firstword $^)
+
 # Generic go-make-something target
 % :
 	$(MAKE) -C $(@D) -I $(CURDIR)/GMk $(@F)
