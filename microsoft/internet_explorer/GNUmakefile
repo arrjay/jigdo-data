@@ -1,4 +1,3 @@
--include jigdo.mk
-
-clean : 
-	-rm en_ie_4_01.iso
+include Objects.mk
+include jigdo.mk
+include standard.mk
