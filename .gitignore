@@ -57,4 +57,10 @@ sgi/irix/6.2/irix-6.2-development-libraries/
 sgi/irix/6.2/irix-development-foundation-1.2-for-irix-6.2/
 apple/Darwin/darwinx86-801/
 microsoft/windows/NT3/NT_31W/
+microsoft/windows/2000/SP1POEM_EN/
+microsoft/windows/2000/SP2SOEM_EN/
+microsoft/windows/2000/W2SFPP_EN/
+microsoft/windows/2000/W2SOEM_EN/
+microsoft/windows/2000/W2SYM_EN/
+microsoft/windows/2000/ZRMPSEL_EN/
 *.template

@@ -1,0 +1,32 @@
+# JigsawDownload
+# See <http://atterer.net/jigdo/> for details about jigdo
+
+[Jigdo]
+Version=1.2
+Generator=jigdo-file/0.7.3
+
+[Image]
+Filename=W2SYM_EN.iso
+Template=W2SYM_EN.template
+Template-MD5Sum=sqlWfT0dRLc06iEz2qIwxg
+
+[Servers]
+A=file:
+
+[Parts]
+BUj28aFjjpnnWo7mwlBgOA=A:W2SYM_EN/dbg.htm
+QiP66R34ae4er3LizSBvHQ=A:W2SYM_EN/setup/gifs/hdrsectioncontents.gif
+BglYeppFXnbvaTaLl3LCMw=A:W2SYM_EN/setup/gifs/redline.jpg
+F8JuAQJz6Rexuvogv8K8wQ=A:W2SYM_EN/setup/gifs/title.gif
+dAR_7IfGQZDS-gc976KQYQ=A:W2SYM_EN/setup/i386/shelexec.exe
+aOx4OSgzRv8Y3mtNvzr0tw=A:W2SYM_EN/symbols/i386/debug/adc.noinstall.cab
+VPVpvSjsV0NjCIAfIP50Eg=A:W2SYM_EN/symbols/i386/debug/advpack.dll
+syQfN635oSAi67grKF0Klw=A:W2SYM_EN/symbols/i386/debug/eula.txt
+vx-7p15MH9FWb9Wb-opMZA=A:W2SYM_EN/symbols/i386/debug/symbols.cab
+zDIUDxS8emTLNSNLvuSIJA=A:W2SYM_EN/symbols/i386/debug/symbols.cat
+p-ss4zZoqdjlpKuWYn5TsQ=A:W2SYM_EN/symbols/i386/debug/symbols.inf
+NwOcGp9IMsUOhwMvkSv1pg=A:W2SYM_EN/symbols/i386/debug/symbolsx.exe
+UftfQ2GkpfXnlFxhwNqAXw=A:W2SYM_EN/symbols/i386/retail/symbols.cab
+K3ytCaqWTzpZ6Buut4Gsfg=A:W2SYM_EN/symbols/i386/retail/symbols.cat
+7GSvAjt8uABCXvxicjySlg=A:W2SYM_EN/symbols/i386/retail/symbols.inf
+AyiU5qSUM6BUmutMPlysfw=A:W2SYM_EN/symbols/i386/retail/symbolsx.exe
