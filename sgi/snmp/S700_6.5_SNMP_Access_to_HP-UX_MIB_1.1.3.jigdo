@@ -1,0 +1,22 @@
+# JigsawDownload
+# See <http://atterer.net/jigdo/> for details about jigdo
+
+[Jigdo]
+Version=1.2
+Generator=jigdo-file/0.7.3
+
+[Image]
+Filename=S700_6.5_SNMP_Access_to_HP-UX_MIB_1.1.3.efs.img
+Template=S700_6.5_SNMP_Access_to_HP-UX_MIB_1.1.3.template
+Template-MD5Sum=Tw-CtcSUkjmfH_CkIvsLxw
+
+[Servers]
+A=file:
+
+[Parts]
+dbk-OwAjNN1_7ZDAROfdgw=A:S700_6.5_SNMP_Access_to_HP-UX_MIB_1.1.3/CDrelnotes
+ppVkeU07OmUQ90tCghaoHw=A:S700_6.5_SNMP_Access_to_HP-UX_MIB_1.1.3/dist/snmpd.idb
+MRN2sfCCja9w5Vf7IzPSTA=A:S700_6.5_SNMP_Access_to_HP-UX_MIB_1.1.3/dist/snmpd.sw
+rZJe-CvG-hAeYjKU5qnm-A=A:S700_6.5_SNMP_Access_to_HP-UX_MIB_1.1.3/dist/snmpd
+PIXqk-Gb9aCAL_H5l7erKg=A:S700_6.5_SNMP_Access_to_HP-UX_MIB_1.1.3/relnotes/snmpd/ch1.z
+q42Pzxa2rmcNdejxpRkAmA=A:S700_6.5_SNMP_Access_to_HP-UX_MIB_1.1.3/relnotes/snmpd/ch2.z
