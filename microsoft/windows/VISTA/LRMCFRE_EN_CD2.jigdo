@@ -1,0 +1,17 @@
+# JigsawDownload
+# See <http://atterer.net/jigdo/> for details about jigdo
+
+[Jigdo]
+Version=1.2
+Generator=jigdo-file/0.7.3
+
+[Image]
+Filename=LRMCFRE_EN_CD2.iso
+Template=LRMCFRE_EN_CD2.template
+Template-MD5Sum=Z8VsuFulqJs6R5kDbC5Okw
+
+[Servers]
+A=file:
+
+[Parts]
+fexPa3rQNXXFNR0nusVNNA=A:LRMCFRE_EN_CD2/Sources/install2.swm
