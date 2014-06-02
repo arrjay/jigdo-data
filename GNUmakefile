@@ -6,7 +6,7 @@
 
 # Generic go-make-something target
 % :
-	$(MAKE) -C $(@D) -I $(CURDIR)/GMk $(@F)
+	$(MAKE) -C $(@D) -I $(CURDIR)/GMk -f Objects.mk -f $(CURDIR)/GMk/standard.mk $(@F)
 
 # Generic go clean-something target
 %.clean : %
