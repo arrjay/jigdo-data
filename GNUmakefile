@@ -21,7 +21,18 @@ BEOS5		= 3rdparty/BeOS/5.0.3Pro/
 NB_COBALT	= 3rdparty/NetBSD-cobalt/
 DARWIN		= apple/Darwin/
 IE		= microsoft/internet_explorer/
-ALL		:= $(BEOS5) $(NB_COBALT) $(DARWIN) $(IE)
+OSF1		= 3rdparty/OSF_1/
+IRIX65		= sgi/irix/6.5/
+IRIX62		= sgi/irix/6.2/
+ENLIGHTENDSM	= sgi/enlightendsm/
+SGI_HOTMIX	= sgi/hotmix/
+SGI_SNMP	= sgi/snmp/
+NT31		= microsoft/windows/NT3/
+NT4		= microsoft/windows/NT4/
+WIN2K		= microsoft/windows/2000/
+ALL		:= $(BEOS5) $(NB_COBALT) $(DARWIN) $(IE) $(OSF1) $(IRIX65) $(IRIX62) \
+$(ENLIGHTENDSM) $(SGI_HOTMIX) $(SGI_SNMP) \
+$(NT31) $(NT4) $(WIN2K)
 
 # recursive assembly, clean ops
 RECURSIVE_CLEAN = $(patsubst %,%.clean,$(ALL))
