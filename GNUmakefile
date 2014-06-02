@@ -10,17 +10,17 @@
 
 # Generic go clean-something target
 %.clean : %
-	$(MAKE) -C $(@D) -I $(CURDIR)/GMk clean
+	$(MAKE) -C $(@D) -I $(CURDIR)/GMk -f Objects.mk -f $(CURDIR)/GMk/standard.mk clean
 
-# Generic go-make-everything target
-%.all : %
-	$(MAKE) -C $(@D) -I $(CURDIR)/GMk all
+# Generic go-make-everything target - can be overridden with a per-target GNUmakefile
+%.all : %/Objects.mk
+	$(MAKE) -C $(@D) -I $(CURDIR)/GMk -f Objects.mk -f $(CURDIR)/GMk/standard.mk all
 
 # directory objects are defined here
-BEOS5		:= 3rdparty/BeOS/5.0.3Pro/
-NB_COBALT	:= 3rdparty/NetBSD-cobalt/
-DARWIN		:= apple/Darwin/
-IE		:= microsoft/internet_explorer/
+BEOS5		= 3rdparty/BeOS/5.0.3Pro/
+NB_COBALT	= 3rdparty/NetBSD-cobalt/
+DARWIN		= apple/Darwin/
+IE		= microsoft/internet_explorer/
 ALL		:= $(BEOS5) $(NB_COBALT) $(DARWIN) $(IE)
 
 # recursive assembly, clean ops
@@ -34,5 +34,5 @@ all-recursive : $(RECURSIVE_ASSEMBLE)
 	@true
 
 # handy targets
-BeOS5 : $(BEOS5)/GNUmakefile $(BEOS5)/.all
+BeOS5 : $(BEOS5)/.all
 	@true
