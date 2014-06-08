@@ -1,0 +1,15 @@
+# JigsawDownload
+# See <http://atterer.net/jigdo/> for details about jigdo
+
+[Jigdo]
+Version=1.2
+Generator=jigdo-file/0.7.3
+
+[Image]
+Filename=boot.wim
+Template=boot.template
+Template-MD5Sum=-ViijnTTCYhY7nP6YVaYVQ
+
+[Servers]
+
+[Parts]

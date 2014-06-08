@@ -6,6 +6,9 @@ endef
 %.wim : % %.jigdo %.template
 	$(run-jigdo)
 
+%.swm : % %.jigdo %.template
+	$(run-jigdo)
+
 %.iso : % %.jigdo %.template
 	$(run-jigdo)
 
