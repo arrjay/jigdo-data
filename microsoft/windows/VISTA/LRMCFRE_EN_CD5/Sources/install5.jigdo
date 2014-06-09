@@ -1,0 +1,33 @@
+# JigsawDownload
+# See <http://atterer.net/jigdo/> for details about jigdo
+
+[Jigdo]
+Version=1.2
+Generator=jigdo-file/0.7.3
+
+[Image]
+Filename=install5.swm
+Template=install5.template
+Template-MD5Sum=Bd5Z46BgVqIimsJwFDIfmA
+
+[Servers]
+A=file:
+
+[Parts]
+m9a-g1FJzZf_1PgIrW_p0w=A:install5/[5].xml
+hsew1cjgVulgZDd42r-Q3g=A:install5/[Files]/013
+hjgObxeTYb8cxnFASu9nqA=A:install5/[Files]/015
+ek2EI3laKSo0GuwIaEbKQg=A:install5/[Files]/018
+FvKgRaKquiircxTYyd60og=A:install5/[Files]/019
+GtXiKPaJeDpikINqR5tjNA=A:install5/[Files]/020
+ZeECj5Cz9zaoeb2t1scAfg=A:install5/[Files]/021
+PIcZrXvrTEXFhJnx1iKB5Q=A:install5/[Files]/022
+mYTOQEaEoodBZtTl35jKBA=A:install5/[Files]/025
+fct2eawfc7Jorbpe8Hwe6Q=A:install5/[Files]/026
+aRk-t4KYbk7xWyhkzjpUhw=A:install5/[Files]/028
+3Q5NhkXgzRLROXsxSd4kRQ=A:install5/[Files]/031
+vqhFXZrU6mAuywKVe4LfDg=A:install5/[Files]/033
+Vn31rMTr7vNt8HSsXOut5Q=A:install5/[Files]/034
+Dqa0IDSMkdgZ8LvITSL0tA=A:install5/[Files]/035
+CPm_RIg8UOFlaL5AMw27Gg=A:install5/[Files]/037
+UF4VT1Cp5GsvnNunw-gWZA=A:install5/[Files]/039
