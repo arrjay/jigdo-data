@@ -1,0 +1,32 @@
+# JigsawDownload
+# See <http://atterer.net/jigdo/> for details about jigdo
+
+[Jigdo]
+Version=1.2
+Generator=jigdo-file/0.7.3
+
+[Image]
+Filename=install2.swm
+Template=install2.template
+Template-MD5Sum=U1rmK-8PnGCiSAgiIbtqRQ
+
+[Servers]
+A=file:
+
+[Parts]
+0Ev5xomNw8kR4TG0tYfJDg=A:install2/[2].xml
+HDRqIyx3iP7W4ZqIeEPi1w=A:install2/[Files]/0740
+vZcuxHSQGInZm993ygBPCg=A:install2/[Files]/0789
+1j10R0qbGQnFvho1H7wbPA=A:install2/[Files]/0807
+aktMlEARW2hSgoClZgOU3A=A:install2/[Files]/0811
+-VIpd2wcU1YQEbPWABFnng=A:install2/[Files]/0819
+XhwTOKF3ZYIgBW72NhCF8g=A:install2/[Files]/0829
+ZXScAKER1fpdXYewhP2UDw=A:install2/[Files]/0843
+WDtgEdo4AEBgOAisxf80XQ=A:install2/[Files]/0882
+YgX7Wz7c7YOL92nav9DfoQ=A:install2/[Files]/0924
+wKHfmu0cE7hl_Cx30QxRKg=A:install2/[Files]/2166
+-Jnx9q5jVJCvny0JM0MSzQ=A:install2/[Files]/2173
+OxA7oaMgeijgUOYwv5ys7A=A:install2/[Files]/2174
+VFRu3JCzsgc0M6VFyuPNRQ=A:install2/[Files]/2317
+ZbpiyIyXnTvJQiSpemnu2Q=A:install2/[Files]/2318
+WahwkzGLydxtbYt0XGQRXA=A:install2/[Files]/3031

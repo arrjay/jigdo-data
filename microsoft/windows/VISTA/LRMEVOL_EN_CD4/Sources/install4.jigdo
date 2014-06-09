@@ -1,0 +1,25 @@
+# JigsawDownload
+# See <http://atterer.net/jigdo/> for details about jigdo
+
+[Jigdo]
+Version=1.2
+Generator=jigdo-file/0.7.3
+
+[Image]
+Filename=install4.swm
+Template=install4.template
+Template-MD5Sum=EvWN4PltH0niOYCzxB9zsA
+
+[Servers]
+A=file:
+
+[Parts]
+0Ev5xomNw8kR4TG0tYfJDg=A:install4/[4].xml
+WqzgBU_lVsfY0XwK8z1nnA=A:install4/[Files]/016
+dVySgUixPR4t-MFzmocq_A=A:install4/[Files]/220
+UmbSxslYWPMtxA9dODNLfQ=A:install4/[Files]/224
+_Ddk9VXfHE8ynWXXbK3XYg=A:install4/[Files]/229
+wsaAOBLuYLF0larQQFDQ2Q=A:install4/[Files]/232
+QH2cSrJIzWxUxXWe512cXQ=A:install4/[Files]/237
+t55hEjBAGzQpFTzL7Tbwrw=A:install4/[Files]/243
+3qr9l3aqGZss6-kP59dTLw=A:install4/[Files]/252

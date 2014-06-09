@@ -1,0 +1,17 @@
+# JigsawDownload
+# See <http://atterer.net/jigdo/> for details about jigdo
+
+[Jigdo]
+Version=1.2
+Generator=jigdo-file/0.7.3
+
+[Image]
+Filename=LRMEVOL_EN_CD4.iso
+Template=LRMEVOL_EN_CD4.template
+Template-MD5Sum=6btyaffMUNS7uD3CtvxPsQ
+
+[Servers]
+A=file:
+
+[Parts]
+FDucWAs90aerzbMcuvLyeg=A:LRMEVOL_EN_CD4/Sources/install4.swm
