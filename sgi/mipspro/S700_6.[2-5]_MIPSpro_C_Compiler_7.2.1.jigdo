@@ -1,0 +1,29 @@
+# JigsawDownload
+# See <http://atterer.net/jigdo/> for details about jigdo
+
+[Jigdo]
+Version=1.2
+Generator=jigdo-file/0.7.3
+
+[Image]
+Filename=S700_6.[2-5]_MIPSpro_C_Compiler_7.2.1.efs.img
+Template=S700_6.[2-5]_MIPSpro_C_Compiler_7.2.1.template
+Template-MD5Sum=b81sUmy_1llZs9pMIrsDvA
+
+[Servers]
+A=file:
+
+[Parts]
+dbk-OwAjNN1_7ZDAROfdgw=A:S700_6.[2-5]_MIPSpro_C_Compiler_7.2.1/CDrelnotes
+Dw043eslHw5zDA-7DydSqg=A:S700_6.[2-5]_MIPSpro_C_Compiler_7.2.1/dist/c_fe
+8JV0wCMmpWvt-ZhTaK9I6A=A:S700_6.[2-5]_MIPSpro_C_Compiler_7.2.1/dist/dist6.4/c_fe.idb
+-0_ck9TsVfD3N3BKU4fulQ=A:S700_6.[2-5]_MIPSpro_C_Compiler_7.2.1/dist/dist6.4/c_fe.sw64
+3PaRbIF-OzgM7mLLzwETOQ=A:S700_6.[2-5]_MIPSpro_C_Compiler_7.2.1/dist/dist6.4/c_fe
+KKMiLw4o8ox2vpX-HQMabg=A:S700_6.[2-5]_MIPSpro_C_Compiler_7.2.1/dist/dist6.5/c_fe.idb
+upYgyU8g_QXWifenfasuBA=A:S700_6.[2-5]_MIPSpro_C_Compiler_7.2.1/dist/dist6.5/c_fe
+t78-f-zZ6vLJ-3bmy4d35A=A:S700_6.[2-5]_MIPSpro_C_Compiler_7.2.1/relnotes/c_fe/ch1.z
+ke9n4x2qQQLwDGC69q4BQQ=A:S700_6.[2-5]_MIPSpro_C_Compiler_7.2.1/relnotes/c_fe/ch2.z
+K4fWAXnQ6LvxsGCb4SGh_w=A:S700_6.[2-5]_MIPSpro_C_Compiler_7.2.1/relnotes/c_fe/ch3.z
+aSnv9a-DC21NKRx34Au6gw=A:S700_6.[2-5]_MIPSpro_C_Compiler_7.2.1/relnotes/c_fe/ch4.z
+7CDcLOv-rBR00gauJAseAg=A:S700_6.[2-5]_MIPSpro_C_Compiler_7.2.1/relnotes/c_fe/ch5.z
+qrdZGm1lOTdHdbVcPFViFA=A:S700_6.[2-5]_MIPSpro_C_Compiler_7.2.1/relnotes/c_fe/ch6.z
