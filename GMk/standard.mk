@@ -21,6 +21,14 @@ endef
 %.tardist : % %.jigdo %.template
 	$(run-jigdo)
 
+# Apple images were created with two images from a single source directory - the .udro.dmg
+#  is useable by apple's disk utility, and the .cdr can be burned by cdrecord.
+%.cdr : % %.cdr.jigdo %.cdr.template
+	jigdo-file make-image -i $@ -t $(firstword $^).cdr.template -j $(firstword $^).cdr.jigdo $(firstword $^)
+
+%.udro.dmg : % %.jigdo %.template
+	$(run-jigdo)
+
 # generic rules - relies on Objects.mk
 all : $(OBJECTS)
 

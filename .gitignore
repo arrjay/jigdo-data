@@ -91,4 +91,5 @@ microsoft/windows/VISTA/*/sources/*/
 microsoft/windows/VISTA/*/support/
 microsoft/windows/VISTA/*/upgrade/
 microsoft/windows/VISTA/*/Sources/install?/
+apple/MacOS8/Mac_OS_8.1/
 *.template
