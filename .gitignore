@@ -97,4 +97,9 @@ microsoft/windows/VISTA/*/Sources/install?/
 apple/Darwin/darwinx86-801/
 apple/MacOS8/Mac_OS_8.1/
 apple/MacOS9/MacOS9.1_iBook_Install_CD/
+apple/OpenStep/4.2_Custom_Driver_Disk/
+apple/OpenStep/4.2_Driver_Disk/
+apple/OpenStep/4.2_Install_Disk/
+apple/OpenStep/openstep_4.2_developer/
+apple/OpenStep/openstep_4.2_install/
 *.template

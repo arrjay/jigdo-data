@@ -1,0 +1,30 @@
+# JigsawDownload
+# See <http://atterer.net/jigdo/> for details about jigdo
+
+[Jigdo]
+Version=1.2
+Generator=jigdo-file/0.7.3
+
+[Image]
+Filename=4.2_Custom_Driver_Disk.floppyimage
+Template=4.2_Custom_Driver_Disk.template
+Template-MD5Sum=HVMq4uSNwwNgesU6E8kY3Q
+
+[Servers]
+A=file:
+
+[Parts]
+JVTP-J8ojdefiR1mCx9kEg=A:4.2_Custom_Driver_Disk/.dir.tiff
+pfLsWFL5URX_8I2VzwmOHw=A:4.2_Custom_Driver_Disk/private/Drivers/i386/AMDPCSCSIDriver.config/AMDPCSCSIDriver_reloc
+9MD_5sGXLrOFv2ZWZuoaXg=A:4.2_Custom_Driver_Disk/private/Drivers/i386/EIDE.config/EIDE
+U3V_7kbft5bwXay5Dfq1NA=A:4.2_Custom_Driver_Disk/private/Drivers/i386/EIDE.config/English.lproj/EIDEInspector.nib/data.classes
+IyV_ufecQnOEg5n-4AshJg=A:4.2_Custom_Driver_Disk/private/Drivers/i386/EIDE.config/English.lproj/EIDEInspector.nib/data.nib
+nr0gSUwnp7SKniPGA39ckw=A:4.2_Custom_Driver_Disk/private/Drivers/i386/EIDE.config/English.lproj/Help/EIDE_HelpFile.rtfd/1PixelRule.tiff
+vQfbpF-SwMiXIvoQ1jVT6A=A:4.2_Custom_Driver_Disk/private/Drivers/i386/EIDE.config/English.lproj/Help/EIDE_HelpFile.rtfd/836922_PixelRule.tiff
+myekPLkav76Gs5SuifuvwA=A:4.2_Custom_Driver_Disk/private/Drivers/i386/EIDE.config/English.lproj/Help/EIDE_HelpFile.rtfd/other.tiff
+9zY99iXcDCCrF6hyMzVlPg=A:4.2_Custom_Driver_Disk/private/Drivers/i386/EISABus.config/EISABus
+dzog262Qw2uSl8UulzgrtQ=A:4.2_Custom_Driver_Disk/private/Drivers/i386/EISABus.config/English.lproj/EISABusInspector.nib/data.classes
+rqQl2TMqtmpWITiq8kx5Wg=A:4.2_Custom_Driver_Disk/private/Drivers/i386/EISABus.config/English.lproj/EISABusInspector.nib/data.nib
+de8AD2Qqx91bClx0cpEm-A=A:4.2_Custom_Driver_Disk/private/Drivers/i386/PCIBus.config/PCIBus_reloc
+6NH6HHPMGgSf4GThOSM7Vg=A:4.2_Custom_Driver_Disk/private/Drivers/i386/PCMCIABus.config/PCMCIABus_reloc
+bU2HUzGYXQC_yeBZ9__E5g=A:4.2_Custom_Driver_Disk/private/Drivers/i386/PathlightSSADriver.config/PathlightSSADriver_reloc

@@ -21,6 +21,12 @@ endef
 %.tardist : % %.jigdo %.template
 	$(run-jigdo)
 
+%.flp : % %.jigdo %.template
+	$(run-jigdo)
+
+%.ufs : % %.jigdo %.template
+	$(run-jigdo)
+
 # Apple images were created with two images from a single source directory - the .udro.dmg
 #  is useable by apple's disk utility, and the .cdr can be burned by cdrecord.
 %.cdr : % %.cdr.jigdo %.cdr.template

@@ -1,0 +1,27 @@
+Part 1: Installation of the OS Basics
+
+    1. Insert the OS 4.2 Installation in the floppy drive, the OS USer CD in the CDROM drive and "Power On" your virtual machine. When the boot prompt appears on the screen type -s to boot in single user mode. Then answer a couple of questions about language, keyboard, etc...
+    2. When asked, insert the Device Drivers floppy (the customized one!)
+    3. Then OS asks you to tell what driver must be used for your CDROM drive. A list shows up. Type 7 twice to go to the end of the list and choose driver #2 "Intel PIIX PCI EIDE/ATAPI Device Controller (v4.03)...."
+    4. OS then asks the exact ssame question for your Hard disk. Do the same as before. Type 7 twice and finally choose 2 again (yes I know it's the same driver but don't worry)
+    5. At that point you are asked if you want to load additional drivers. Say yes : type 2, then 7 and finally choose the Floppy Disk Driver (6).
+    6. Then type 1 to continue.
+    7. At this point you should see the boot screen with loads of messages. Verify that both the Hard disk and the CDROM are detected ok. Then you get the shell prompt (#). Make sure the Device Driver floppy a) is still in the floppy drive and b) is writable. Then type:
+       mount -n /dev/fd0a /install
+       sh /install/rc.cdrom
+    8. From there the installation should go smoothly, choose the entire virtual hard disk for installation.
+    9. At  the end you of the installation you'll see a message saying "Patching the EIDE driver....". Then 2 lines about problems related to ejecting the floppy. Don't pay attention to it.
+   10. DO NOT REMOVE THE FLOPPY YET. Press return as requested and wait for the virtual machine to reboot. Then remove the floppy.
+   11. End of the first phase.
+
+
+Part 2: OS Configuration
+
+    1. Shortly after restarting, you should see the OpenStep Welcome Screen (loading Openstep, Reading Openstep Configuration,etc...)
+    2. Then OS wants to load the EISA driver again. Insert the Customized Device Driver Disk as requested and type 1
+    3. Then you go through the Startup Phase (nothing asked and it finally says startup complete)
+    4. An alert box will show up asking you to load the EISA driver from the floppy disk. Insert the floopy and click OK
+    5. Then comes the Configure Panel
+          + Click on the Display icon and choose "Default VGA" as the display driver if you are using VMWare. I tried the SVGA but it then gives a black scree so it looks like VMware does not support the 0x6a VESA mode. With VirtualBox you can choose the "Generic SVGA" driver down the list. It works well and will give you a more comfortable 800x600 screen resolution.
+          + Do not install other peripherals for the moment. Just click on the Save button.
+    6. End of configuration phase

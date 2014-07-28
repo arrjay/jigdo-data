@@ -1,0 +1,23 @@
+# JigsawDownload
+# See <http://atterer.net/jigdo/> for details about jigdo
+
+[Jigdo]
+Version=1.2
+Generator=jigdo-file/0.7.3
+
+[Image]
+Filename=4.2_Install_Disk.floppyimage
+Template=4.2_Install_Disk.template
+Template-MD5Sum=w2oc0FcDo3TidkMGrY2Eug
+
+[Servers]
+A=file:
+
+[Parts]
+JVTP-J8ojdefiR1mCx9kEg=A:4.2_Install_Disk/.dir.tiff
+KLnKTfU7Ojj8tj_1dnAUNQ=A:4.2_Install_Disk/usr/standalone/i386/English.lproj/Localizable.strings
+3GXjUivtGv2CxwKC5o6Wbw=A:4.2_Install_Disk/usr/standalone/i386/French.lproj/Localizable.strings
+qOTl1mc9hiu6iUoHnROx2A=A:4.2_Install_Disk/usr/standalone/i386/German.lproj/Localizable.strings
+jhf_kaPMjfnxeAsQdYlnpg=A:4.2_Install_Disk/usr/standalone/i386/Italian.lproj/Localizable.strings
+580ZdHHtnsk5fyo_4BadSA=A:4.2_Install_Disk/usr/standalone/i386/Spanish.lproj/Localizable.strings
+vXtOuL42_C48XemiW5i8Lg=A:4.2_Install_Disk/usr/standalone/i386/Swedish.lproj/Localizable.strings

@@ -1,0 +1,22 @@
+# JigsawDownload
+# See <http://atterer.net/jigdo/> for details about jigdo
+
+[Jigdo]
+Version=1.2
+Generator=jigdo-file/0.7.3
+
+[Image]
+Filename=4.2_Driver_Disk.floppyimage
+Template=4.2_Driver_Disk.template
+Template-MD5Sum=WesnlCWtrU49EPEl2mLeWg
+
+[Servers]
+A=file:
+
+[Parts]
+JVTP-J8ojdefiR1mCx9kEg=A:4.2_Driver_Disk/.dir.tiff
+pfLsWFL5URX_8I2VzwmOHw=A:4.2_Driver_Disk/private/Drivers/i386/AMDPCSCSIDriver.config/AMDPCSCSIDriver_reloc
+de8AD2Qqx91bClx0cpEm-A=A:4.2_Driver_Disk/private/Drivers/i386/PCIBus.config/PCIBus_reloc
+6NH6HHPMGgSf4GThOSM7Vg=A:4.2_Driver_Disk/private/Drivers/i386/PCMCIABus.config/PCMCIABus_reloc
+bU2HUzGYXQC_yeBZ9__E5g=A:4.2_Driver_Disk/private/Drivers/i386/PathlightSSADriver.config/PathlightSSADriver_reloc
+MgVKKH327BGjl-WskVQOtw=A:4.2_Driver_Disk/private/Drivers/i386/S3ViRGEDisplayDriver.config/S3ViRGEDisplayDriver_reloc
