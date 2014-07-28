@@ -1,0 +1,53 @@
+# JigsawDownload
+# See <http://atterer.net/jigdo/> for details about jigdo
+
+[Jigdo]
+Version=1.2
+Generator=jigdo-file/0.7.3
+
+[Image]
+Filename=S700_6.[2-5]_ONC3_NFS_v3 (1999).efs.img
+Template=S700_6.[2-5]_ONC3_NFS_v3 (1999).template
+Template-MD5Sum=lbV3dFXM1H-cQ13NTPdEkA
+
+[Servers]
+A=file:
+
+[Parts]
+P9iKTUl_Dp3zhCxA4c9QoA='A:S700_6.[2-5]_ONC3_NFS_v3 (1999)/dist/dist6.3/nfs'
+TPJxfzLOi-LY3yMgIBnyWQ='A:S700_6.[2-5]_ONC3_NFS_v3 (1999)/dist/dist6.3/nfs.books'
+AdH7Z6G-RWhvdb3icI2vvQ='A:S700_6.[2-5]_ONC3_NFS_v3 (1999)/dist/dist6.3/nfs.idb'
+ZIvvZSYfthOYlVU12-iiTQ='A:S700_6.[2-5]_ONC3_NFS_v3 (1999)/dist/dist6.3/nfs3.idb'
+zbndr1Z8rQnrWqaXA1Lr-g='A:S700_6.[2-5]_ONC3_NFS_v3 (1999)/dist/dist6.3/nfs3.sw'
+4MRU69WqnhWRNqEaP9uKsA='A:S700_6.[2-5]_ONC3_NFS_v3 (1999)/dist/dist6.3/onc3_eoe'
+xYdMFY8b_awNHPadSFjukw='A:S700_6.[2-5]_ONC3_NFS_v3 (1999)/dist/dist6.3/onc3_eoe.idb'
+95rZXU0CW4bDbQgRfvsnqg='A:S700_6.[2-5]_ONC3_NFS_v3 (1999)/dist/dist6.3/onc3_eoe.man'
+IDHr-QSpWCPOiTFEhINfwA='A:S700_6.[2-5]_ONC3_NFS_v3 (1999)/dist/dist6.4/nfs'
+JOAjgJoOkmQIsj3N5ZzemQ='A:S700_6.[2-5]_ONC3_NFS_v3 (1999)/dist/dist6.4/nfs.books'
+UkO65JWJOp8Bl6FomKe4_Q='A:S700_6.[2-5]_ONC3_NFS_v3 (1999)/dist/dist6.4/nfs.idb'
+T5x2LlOCKATXI_6Ft8HI1w='A:S700_6.[2-5]_ONC3_NFS_v3 (1999)/dist/dist6.4/pcnfsd.idb'
+21KWnbSDrq6l0jmlkHtrdg='A:S700_6.[2-5]_ONC3_NFS_v3 (1999)/dist/dist6.4/pcnfsd.man'
+WKaH3cSBt4XUrtF6A3q53g='A:S700_6.[2-5]_ONC3_NFS_v3 (1999)/dist/dist6.4/pcnfsd.spool'
+CJpUJcs84gGXLRK_VW7prw='A:S700_6.[2-5]_ONC3_NFS_v3 (1999)/dist/dist6.4/pcnfsd.sw'
+BiYPwvS89jsdzQc-QEfdRQ='A:S700_6.[2-5]_ONC3_NFS_v3 (1999)/dist/dist6.5/nfs.man'
+PbLEBNaK7AgnYb6hXvgl_Q='A:S700_6.[2-5]_ONC3_NFS_v3 (1999)/dist/nfs'
+IiFXvVW5uxd6unJ-8nurSw='A:S700_6.[2-5]_ONC3_NFS_v3 (1999)/dist/nfs.books'
+p4qqiA2ooh8KuyZvf1Rs5w='A:S700_6.[2-5]_ONC3_NFS_v3 (1999)/dist/nfs.idb'
+H0d9aVEua1DXNZrkas09Kg='A:S700_6.[2-5]_ONC3_NFS_v3 (1999)/dist/nfs.man'
+LHj-qF-20c9n8Y3kjBjq6A='A:S700_6.[2-5]_ONC3_NFS_v3 (1999)/dist/nfs3.idb'
+vJrqOYZ7xUuLoKsXpzubhw='A:S700_6.[2-5]_ONC3_NFS_v3 (1999)/dist/nfs3.sw'
+dQPzhXyWD_l5G2GcDH5yFw='A:S700_6.[2-5]_ONC3_NFS_v3 (1999)/dist/onc3_eoe'
+KqQMzj5vNiwGnuCAJWaN5g='A:S700_6.[2-5]_ONC3_NFS_v3 (1999)/dist/onc3_eoe.idb'
+w0r1fwgBAaFpRiZ-0AWlLA='A:S700_6.[2-5]_ONC3_NFS_v3 (1999)/dist/onc3_eoe.man'
+G_sSpEqO8mk7glymiSErIg='A:S700_6.[2-5]_ONC3_NFS_v3 (1999)/dist/onc3_eoe.sw'
+-ej525h-eoEKQ8IkFW5MGQ='A:S700_6.[2-5]_ONC3_NFS_v3 (1999)/dist6.3/nfs.man'
+3zmUIk9EmKwlxLEHhIh4dg='A:S700_6.[2-5]_ONC3_NFS_v3 (1999)/dist6.3/onc3_eoe.sw'
+pBOtDKh_WUs3fL54NC8IFw='A:S700_6.[2-5]_ONC3_NFS_v3 (1999)/dist6.4/nfs.man'
+CZFNFrMPZjAajuZSkXiA3w='A:S700_6.[2-5]_ONC3_NFS_v3 (1999)/dist6.5/nfs'
+qjm4sZIgwFqa1FYxUKvZng='A:S700_6.[2-5]_ONC3_NFS_v3 (1999)/dist6.5/nfs.books'
+JfvY6najDVUbJGSXGqxy-A='A:S700_6.[2-5]_ONC3_NFS_v3 (1999)/dist6.5/nfs.idb'
+rt19IMUk0__EmaM-ebN1Ow='A:S700_6.[2-5]_ONC3_NFS_v3 (1999)/dist6.5/pcnfsd'
+w0G_hE56UDC1dUOlGV36uw='A:S700_6.[2-5]_ONC3_NFS_v3 (1999)/dist6.5/pcnfsd.idb'
+4iUj86-6peKdwRpQClnr8g='A:S700_6.[2-5]_ONC3_NFS_v3 (1999)/dist6.5/pcnfsd.man'
+XnWzXvSROvoJrJpPJlhs1Q='A:S700_6.[2-5]_ONC3_NFS_v3 (1999)/dist6.5/pcnfsd.spool'
+3-BFt19t8XOFh9I7L35wbw='A:S700_6.[2-5]_ONC3_NFS_v3 (1999)/dist6.5/pcnfsd.sw'
