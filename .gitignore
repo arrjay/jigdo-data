@@ -92,4 +92,5 @@ microsoft/windows/VISTA/*/support/
 microsoft/windows/VISTA/*/upgrade/
 microsoft/windows/VISTA/*/Sources/install?/
 apple/MacOS8/Mac_OS_8.1/
+apple/MacOS9/MacOS9.1_iBook_Install_CD/
 *.template
