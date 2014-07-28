@@ -1,0 +1,19 @@
+# JigsawDownload
+# See <http://atterer.net/jigdo/> for details about jigdo
+
+[Jigdo]
+Version=1.2
+Generator=jigdo-file/0.7.3
+
+[Image]
+Filename=multi_ICD_SOL_8_U3_IA.iso
+Template=multi_ICD_SOL_8_U3_IA.template
+Template-MD5Sum=P1OKdKEsbM50YT9iRzYTBQ
+
+[Servers]
+A=file:
+
+[Parts]
+nGqALhFmcdpvZGGEii82CQ=A:multi_ICD_SOL_8_U3_IA/Copyright
+PIwxB51-ZI4pc7thtCR53Q=A:multi_ICD_SOL_8_U3_IA/add_install_client
+ugsbswAl6yZNwEfnDPzd7w=A:multi_ICD_SOL_8_U3_IA/modify_install_server
