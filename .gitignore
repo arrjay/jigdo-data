@@ -119,4 +119,16 @@ oracle/solaris/8/multi_ICD_SOL_8_204_SPARC/
 oracle/solaris/8/multi_ICD_SOL_8_U3_IA/
 oracle/solaris/8/solaris8_204_suppcd/
 oracle/solaris/8/solaris8_hw703_suppcd/
+ibm/aix/5.2/LCD4_1133_02_VOLUME1/
+ibm/aix/5.2/LCD4_1133_02_VOLUME1__2/
+ibm/aix/5.2/LCD4_1133_02_VOLUME1__3/
+ibm/aix/5.2/LCD4_1133_02_VOLUME1__4/
+ibm/aix/5.2/LCD4_1133_02_VOLUME1__5/
+ibm/aix/5.2/LCD4_1133_02_VOLUME1__6/
+ibm/aix/5.2/LCD4_1141_03/
+ibm/aix/5.2/LCD4_1141_03__2/
+ibm/aix/5.2/LCD4_1141_03__3/
+ibm/aix/5.2/LCD4_1142_03/
+ibm/aix/5.2/LCD4_1163_06/
+ibm/aix/5.2/NOID__2/
 *.template
