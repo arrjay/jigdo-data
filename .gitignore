@@ -131,4 +131,7 @@ ibm/aix/5.2/LCD4_1141_03__3/
 ibm/aix/5.2/LCD4_1142_03/
 ibm/aix/5.2/LCD4_1163_06/
 ibm/aix/5.2/NOID__2/
+apple/OS_X/10.5_Leopard/
+apple/OS_X/10.5_Leopard_Server/
+apple/OS_X/10.5_Leopard_ServerAdministrationTools/
 *.template
