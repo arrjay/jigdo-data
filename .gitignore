@@ -134,4 +134,6 @@ ibm/aix/5.2/NOID__2/
 apple/OS_X/10.5_Leopard/
 apple/OS_X/10.5_Leopard_Server/
 apple/OS_X/10.5_Leopard_ServerAdministrationTools/
+apple/OS_X/10.4_Tiger_Server/
+apple/OS_X/10.4_Tiger_ServerAdministrationtools/
 *.template

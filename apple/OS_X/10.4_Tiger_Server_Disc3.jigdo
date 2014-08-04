@@ -1,0 +1,27 @@
+# JigsawDownload
+# See <http://atterer.net/jigdo/> for details about jigdo
+
+[Jigdo]
+Version=1.2
+Generator=jigdo-file/0.7.3
+
+[Image]
+Filename=10.4_Tiger_Server_Disc3.udro.dmg
+Template=10.4_Tiger_Server_Disc3.template
+Template-MD5Sum=V-036iWZxyxci-hHZ0Sn-w
+
+[Servers]
+A=file:
+
+[Parts]
+3_5whjyzTRwuPSO6QENzqg=A:10.4_Tiger_Server/System/Installation/Packages/BrotherPrinterDrivers.pkg/Contents/Archive.pax.gz
+CIvyDB5HTknsNQtKjRzA4A=A:10.4_Tiger_Server/System/Installation/Packages/BrotherPrinterDrivers.pkg/Contents/Resources/BundleVersions.plist
+86vlmYqagMn7PVrS_LR-Nw=A:10.4_Tiger_Server/System/Installation/Packages/CanonPrinterDrivers.pkg/Contents/Archive.pax.gz
+wTpOOrrd6YwTcf8BChhmsg=A:10.4_Tiger_Server/System/Installation/Packages/CanonPrinterDrivers.pkg/Contents/Resources/BundleVersions.plist
+qV2xbv5Y0vFmU8nZllWNwg=A:10.4_Tiger_Server/System/Installation/Packages/EpsonPrinterDrivers.pkg/Contents/Archive.pax.gz
+SFoYya9ufbJdQLPxcsKd2A=A:10.4_Tiger_Server/System/Installation/Packages/EpsonPrinterDrivers.pkg/Contents/Resources/BundleVersions.plist
+NS7dIarRNtAIEN28C_yojQ=A:10.4_Tiger_Server/System/Installation/Packages/GimpPrintPrinterDrivers.pkg/Contents/Archive.pax.gz
+ByWiC8S7t80bQW7KqfyB3Q=A:10.4_Tiger_Server/System/Installation/Packages/HewlettPackardPrinterDrivers.pkg/Contents/Resources/BundleVersions.plist
+mZiOlTdxEcSdoTBtHI4keA=A:10.4_Tiger_Server/System/Installation/Packages/LexmarkPrinterDrivers.pkg/Contents/Archive.pax.gz
+L4e604D4G_rd_syq8yW6Iw=A:10.4_Tiger_Server/System/Installation/Packages/LexmarkPrinterDrivers.pkg/Contents/Resources/BundleVersions.plist
+yZp0xVU3GkM9Eh9VHWxjmA=A:10.4_Tiger_Server/System/Library/PrivateFrameworks/MediaKit.framework/Resources/MKDrivers.bundle/Contents/Resources/Apple_Driver_ATAPI.DMMY.drvr
