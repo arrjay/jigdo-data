@@ -92,6 +92,7 @@ microsoft/windows/VISTA/*/sources/*.xsd
 microsoft/windows/VISTA/*/sources/*.xsl
 microsoft/windows/VISTA/*/sources/*/
 microsoft/windows/VISTA/*/support/
+microsoft/windows/VISTA/*/langpacks/
 microsoft/windows/VISTA/*/upgrade/
 microsoft/windows/VISTA/*/Sources/install?/
 apple/Darwin/darwinx86-801/
