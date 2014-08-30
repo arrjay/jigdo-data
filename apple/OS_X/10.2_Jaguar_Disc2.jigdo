@@ -1,0 +1,37 @@
+# JigsawDownload
+# See <http://atterer.net/jigdo/> for details about jigdo
+
+[Jigdo]
+Version=1.2
+Generator=jigdo-file/0.7.3
+
+[Image]
+Filename=10.2_Jaguar_Disc2.udro.dmg
+Template=10.2_Jaguar_Disc2.template
+Template-MD5Sum=5eV9CLqW4s9ZXK_h1EyQlQ
+
+[Servers]
+A=file:
+
+[Parts]
+0hOP813Fmmz9ysgr0iYVPw='A:10.2_Jaguar_Disc2/Desktop DB'
+eDx7HrsXx9XiuzLazVhRfg=A:10.2_Jaguar_Disc2/.DS_Store
+SGiJ0dfoEU_5_5PE3Dsu0A=A:10.2_Jaguar_Disc2/AdditionalApplications.pkg/Contents/Archive.bom
+4_AlS0fh_0qorRys8iUBhw=A:10.2_Jaguar_Disc2/AdditionalApplications.pkg/Contents/Archive.pax.gz
+4rEMlThIwMWnHIH-Xb9nCA=A:10.2_Jaguar_Disc2/AdditionalApplications.pkg/Contents/Resources/BundleVersions.plist
+aJttn0wbIEmJfxKb4yMkvA=A:10.2_Jaguar_Disc2/AdditionalAsianFonts.pkg/Contents/Archive.bom
+l8hBwXKGEXwZ-RjCjWrHyg=A:10.2_Jaguar_Disc2/AdditionalAsianFonts.pkg/Contents/Archive.pax.gz
+pSQu-9KH4LAHSY_kfA9qWg=A:10.2_Jaguar_Disc2/AdditionalFonts.pkg/Contents/Archive.bom
+CH5IUcM9mLRmS0muafIIQw=A:10.2_Jaguar_Disc2/AdditionalFonts.pkg/Contents/Archive.pax.gz
+lj0ff3RJWxlFMmRO2XnHXg=A:10.2_Jaguar_Disc2/CanonPrinterDrivers.pkg/Contents/Archive.bom
+q0tGuIfQtkgdhLIB0R3RRQ=A:10.2_Jaguar_Disc2/CanonPrinterDrivers.pkg/Contents/Archive.pax.gz
+jU0TNlrhqQO5ceWePL9aTw=A:10.2_Jaguar_Disc2/CanonPrinterDrivers.pkg/Contents/Resources/BundleVersions.plist
+2JsRYfmdfSY-P7FlVQfanw=A:10.2_Jaguar_Disc2/EpsonPrinterDrivers.pkg/Contents/Archive.bom
+mj-rdQo4vhBl_YFWMBuxxQ=A:10.2_Jaguar_Disc2/EpsonPrinterDrivers.pkg/Contents/Archive.pax.gz
+6bzSqIKm6fCOF7wrZeAdGw=A:10.2_Jaguar_Disc2/EpsonPrinterDrivers.pkg/Contents/Resources/BundleVersions.plist
+DRCZXsEg-_d6UNK0eboslw=A:10.2_Jaguar_Disc2/HewlettPackardPrinterDrivers.pkg/Contents/Archive.bom
+MRZi_Ll-RE2UycoIW_94Ow=A:10.2_Jaguar_Disc2/HewlettPackardPrinterDrivers.pkg/Contents/Archive.pax.gz
+Wj7-fQ-vU8N5IWErtt1HHA=A:10.2_Jaguar_Disc2/HewlettPackardPrinterDrivers.pkg/Contents/Resources/BundleVersions.plist
+akPjUFot7g7nlWo0ELoG4w=A:10.2_Jaguar_Disc2/LexmarkPrinterDrivers.pkg/Contents/Archive.bom
+Eaaf2vRWEnMKlEv7BvSvxg=A:10.2_Jaguar_Disc2/LexmarkPrinterDrivers.pkg/Contents/Archive.pax.gz
+tW9GF9lPsD5gHzApM_5TTw=A:10.2_Jaguar_Disc2/LexmarkPrinterDrivers.pkg/Contents/Resources/BundleVersions.plist

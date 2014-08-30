@@ -1,0 +1,44 @@
+# JigsawDownload
+# See <http://atterer.net/jigdo/> for details about jigdo
+
+[Jigdo]
+Version=1.2
+Generator=jigdo-file/0.7.3
+
+[Image]
+Filename=10.2_NetBoot_for_Mac_OS_9.cdr
+Template=10.2_NetBoot_for_Mac_OS_9.cdr.template
+Template-MD5Sum=zwGgBe2ar__W_ZHODx9hLA
+
+[Servers]
+A=file:
+
+[Parts]
+4h7quR6UgtVQllERnKGTzg='A:10.2_NetBoot_for_Mac_OS_9/Desktop DB'
+g0yhUAm5tZhQmv1ar4WfbA='A:10.2_NetBoot_for_Mac_OS_9/Desktop DF'
+1bOkyozH4QyFUTPLCX5rXg='A:10.2_NetBoot_for_Mac_OS_9/Deutsch/NetBoot Volumes Dienstprog/NetBoot Volumes Dienstprog.rtf'
+GkTvFh7xyU82DRvXxCsj1w='A:10.2_NetBoot_for_Mac_OS_9/Deutsch/NetBoot Volumes Dienstprog/NetBoot Volumes Dienstprogramm'
+sqOUw2b93RbHFdbORoySJg='A:10.2_NetBoot_for_Mac_OS_9/Deutsch/Über NetBoot.pdf'
+oH4ouf3Wu4YEh8r9Itejdw='A:10.2_NetBoot_for_Mac_OS_9/English/About NetBoot.pdf'
+LMJSd2ev7kgKYSlisHW83g='A:10.2_NetBoot_for_Mac_OS_9/English/NetBoot Desktop Admin/About NetBoot Desktop Admin.rtf'
+xPvMdcsQA3ULmxPQ9m7A3g='A:10.2_NetBoot_for_Mac_OS_9/Français/Admin de bureau NetBoot/About NetBoot Desktop Admin.rtf'
+eApn02NlptpbvSr2x6dhFw='A:10.2_NetBoot_for_Mac_OS_9/Français/À propos de NetBoot.pdf'
+l5n2ozD-xgbuX01uCzGUOw='A:10.2_NetBoot_for_Mac_OS_9/Japanese/NetBoot について.pdf'
+0j_kCXHK6eKax4YW4ANQ3A='A:10.2_NetBoot_for_Mac_OS_9/Japanese/NetBoot デスクトップ管理/NetBootデスクトップ管理.rtf'
+Osry1N2OhUZZDS3jKz1e0A=A:10.2_NetBoot_for_Mac_OS_9/.DS_Store
+cK5CkxsCAK0rA9rlOQhCxQ=A:10.2_NetBoot_for_Mac_OS_9/Deutsch/NetBoot_D.pkg/Contents/Resources/NetBoot_D.bom
+-rZlpM1XZp_AUAIT5DPLxg=A:10.2_NetBoot_for_Mac_OS_9/Deutsch/NetBoot_D.pkg/Contents/Resources/NetBoot_D.pax.gz
+p899pUqhRSoKORecHSWEjw=A:10.2_NetBoot_for_Mac_OS_9/Deutsch/NetBoot_D.pkg/Contents/Resources/NetBoot_D.post_install
+ywnGBNaUUuwelzp6ZCZAig=A:10.2_NetBoot_for_Mac_OS_9/Deutsch/NetBoot_D.pkg/Contents/Resources/NetBoot_D.post_upgrade
+EL5tEh8AwF3EksB3_DuYnQ=A:10.2_NetBoot_for_Mac_OS_9/English/NetBoot.pkg/Contents/Resources/NetBoot.bom
+i3z2sYlNh74X0q72_mAO5A=A:10.2_NetBoot_for_Mac_OS_9/English/NetBoot.pkg/Contents/Resources/NetBoot.pax.gz
+wH_F21HHT1yKi5WvGSlsrg=A:10.2_NetBoot_for_Mac_OS_9/English/NetBoot.pkg/Contents/Resources/NetBoot.post_install
+bmRaoBYDclxg3Oa6md4dJQ=A:10.2_NetBoot_for_Mac_OS_9/English/NetBoot.pkg/Contents/Resources/NetBoot.post_upgrade
+JrykhO04zpRiK_ZWZegDAg=A:10.2_NetBoot_for_Mac_OS_9/Français/NetBoot_F.pkg/Contents/Resources/NetBoot_F.bom
+_aF1fzOGoaZebRGwNwtZwg=A:10.2_NetBoot_for_Mac_OS_9/Français/NetBoot_F.pkg/Contents/Resources/NetBoot_F.pax.gz
+TgD5KGXHxzqBSdIFfrTQjg=A:10.2_NetBoot_for_Mac_OS_9/Français/NetBoot_F.pkg/Contents/Resources/NetBoot_F.post_install
+Y5h20lq0tLqbYlpZNb0C4g=A:10.2_NetBoot_for_Mac_OS_9/Français/NetBoot_F.pkg/Contents/Resources/NetBoot_F.post_upgrade
+iRK41De82nnhrqiZJfPIeg=A:10.2_NetBoot_for_Mac_OS_9/Japanese/NetBoot_J.pkg/Contents/Resources/NetBoot_J.bom
+xTpSCyPDrzAn2URD8qlJzg=A:10.2_NetBoot_for_Mac_OS_9/Japanese/NetBoot_J.pkg/Contents/Resources/NetBoot_J.pax.gz
+m7bd81gxOFZPU8V9FU3Q4g=A:10.2_NetBoot_for_Mac_OS_9/Japanese/NetBoot_J.pkg/Contents/Resources/NetBoot_J.post_install
+47P1K7aee5Y9as9Wa2v8wg=A:10.2_NetBoot_for_Mac_OS_9/Japanese/NetBoot_J.pkg/Contents/Resources/NetBoot_J.post_upgrade
