@@ -1,0 +1,98 @@
+# JigsawDownload
+# See <http://atterer.net/jigdo/> for details about jigdo
+
+[Jigdo]
+Version=1.2
+Generator=jigdo-file/0.7.3
+
+[Image]
+Filename=2.2.udro.dmg
+Template=2.2.template
+Template-MD5Sum=4GqOYRiv8LI_W-MEwg_1lQ
+
+[Servers]
+A=file:
+
+[Parts]
+uY9b8gteKdjGnPG-oMo0GA="A:2.2/Administrator's Guide.app/Contents/Info.plist"
+oc4cnw9soEdEtuvSg8Fo1Q="A:2.2/Administrator's Guide.app/Contents/Resources/English.lproj/Administrator's Guide.pdf"
+VLMl9lBm2GoneA_K8HfPZA="A:2.2/Administrator's Guide.app/Contents/Resources/French.lproj/Guide administrateur ARD.pdf"
+tc018fe107Cl4b8zhlhABA="A:2.2/Administrator's Guide.app/Contents/Resources/German.lproj/Administrator-Handbuch.pdf"
+R5K_PBJMgrdeIlkzDCcGaw="A:2.2/Administrator's Guide.app/Contents/Resources/Japanese.lproj/管理者ガイド.pdf"
+GW9cSj8pG1kVJEgEp_tJxg="A:2.2/Administrator's Guide.app/Contents/Resources/pdf.icns"
+x9xxBsXMuwQehRIH0pCgrA='A:2.2/Read Me.app/Contents/Info.plist'
+1CfM0TW55VVe9igsATg_vA='A:2.2/Read Me.app/Contents/MacOS/Read Me'
+z27GChfVED6o7GlKrJh42w='A:2.2/Read Me.app/Contents/Resources/English.lproj/Read Me.rtf'
+iApnKHWR1t2-bk1Zmg4kPw='A:2.2/Read Me.app/Contents/Resources/French.lproj/Lisez-moi.rtf'
+OIquUwJlMq2ZMfll0DHUMQ='A:2.2/Read Me.app/Contents/Resources/German.lproj/Bitte lesen.rtf'
+mZ0GEpSabNk3aVzfPLbWSw='A:2.2/Read Me.app/Contents/Resources/Japanese.lproj/お読みください.rtf'
+1TJLEc-HXDbZJsAEzPuzwQ='A:2.2/Read Me.app/Contents/Resources/rtf.icns'
+YEAY3yf4EdZ1UnKjodKljA=A:2.2/.DS_Store
+W_DujPsU2VwmEn5f9GYzgA=A:2.2/RemoteDesktop.mpkg/Contents/Info.plist
+K_aiygD78uDW44q3z1bXTA=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopAdmin220.pkg/Contents/Archive.bom
+ODANpKPQlHe5nOkJbNu4gg=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopAdmin220.pkg/Contents/Archive.pax.gz
+6H5BzNkjZP3Fnyi8jRarLA=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopAdmin220.pkg/Contents/Info.plist
+_2PcKON1QQ0PVNl7b25nbw=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopAdmin220.pkg/Contents/Resources/BundleVersions.plist
+udfPiuhwlC3U2jjB0N_vHQ=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopAdmin220.pkg/Contents/Resources/English.lproj/Welcome.rtfd/Control.tif
+yLrEk5fldCtaKRoDexDrPQ=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopAdmin220.pkg/Contents/Resources/English.lproj/Welcome.rtfd/InstallPackageTask.tif
+8T3qt4cnSHY5EnV3R5-cEw=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopAdmin220.pkg/Contents/Resources/English.lproj/Welcome.rtfd/Observe.icns
+WMk9FXHPOIY4tv_wLg1KpQ=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopAdmin220.pkg/Contents/Resources/English.lproj/Welcome.rtfd/SysInfoReportTask.tif
+MzjFv0j0gJTK1ayyCVQBbw=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopAdmin220.pkg/Contents/Resources/English.lproj/Welcome.rtfd/TXT.rtf
+mlvZNtRQwfGbATYCEFHZyA=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopAdmin220.pkg/Contents/Resources/French.lproj/Welcome.rtfd/TXT.rtf
+nk7yBLq9kIp4X4rCnKhlXg=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopAdmin220.pkg/Contents/Resources/German.lproj/Welcome.rtfd/TXT.rtf
+m9LZ_D0VcPTpfdCf48wCDw=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopAdmin220.pkg/Contents/Resources/Japanese.lproj/Welcome.rtfd/TXT.rtf
+iijjn_NoM_0suy-gVrAbpw=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopAdmin220.pkg/Contents/Resources/VolumeCheck
+qxjirFvKpcW97WjrvjLasQ=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopAdmin220.pkg/Contents/Resources/background.tif
+gRC7zHIXPY9Xi2r7vMwNCA=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopAdmin220.pkg/Contents/Resources/kickstart
+1ZGL-U6jgMD8Vd5RM-PMdw=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopAdmin220.pkg/Contents/Resources/makeuser
+vUgFBlJSXtEpEb2zMpm_WQ=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopAdmin220.pkg/Contents/Resources/postflight_actions/controlPanelAdjudication
+-AC_u_ds-st5a8J3eh7GRg=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopAdmin220.pkg/Contents/Resources/postflight_actions/copypackages
+T6WwDOpSoffbzuehLXLlqA=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopAdmin220.pkg/Contents/Resources/postflight_actions/fixPerms
+cyJm-3_jqYsLKKNfdzZMqA=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopAdmin220.pkg/Contents/Resources/postflight_actions/stampBuildNumInPlistStrings
+DvgpK_-pCBm39m_4TYestA=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopAdmin220.pkg/Contents/Resources/postflight_kickstart
+LJYThsDojIy4Ykn1ppZIkw=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopAdmin220.pkg/Contents/Resources/preflight_actions/maybeNukeVNCServer
+hQTccrNDdPDZDB8trhnaCA=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopAdmin220.pkg/Contents/Resources/preflight_actions/setAsideControlPanel
+rjtUaqDEX3kIiY8AhaPqFQ=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopAdmin220.pkg/Contents/Resources/preflight_kickstart
+xwzqrEd6x6jgN8Q_nlA8qQ=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopClient220.mpkg/Contents/Info.plist
+aWRWcPigQSj1HQTO5bdVQg=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopClient220.mpkg/Contents/Installers/PantherSharing.pkg/Contents/Archive.bom
+OLHRjGn-Q3DydEyeTmOPGQ=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopClient220.mpkg/Contents/Installers/PantherSharing.pkg/Contents/Archive.pax.gz
+qibnC0yOOwE0ra8DN-jzRQ=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopClient220.mpkg/Contents/Installers/PantherSharing.pkg/Contents/Info.plist
+qPwoj-0z2JnjJABvoE1dKw=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopClient220.mpkg/Contents/Installers/PantherSharing.pkg/Contents/Resources/BundleVersions.plist
+3VV6wf7wQz-kpNMGVdiVJg=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopClient220.mpkg/Contents/Installers/PantherSharing.pkg/Contents/Resources/VolumeCheck
+xCNSXUK45_yrKEndDKh8Bg=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopClient220.mpkg/Contents/Installers/PantherSharing.pkg/Contents/Resources/postflight
+CuT8p5W81vOvnhF_MtiO2g=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopClient220.mpkg/Contents/Installers/RemoteDesktopClient220.pkg/Contents/Archive.bom
+18QPayipxWWo5d7rWkS4mw=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopClient220.mpkg/Contents/Installers/RemoteDesktopClient220.pkg/Contents/Archive.pax.gz
+UsFjiJXGnw46RrUfkUWqUg=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopClient220.mpkg/Contents/Installers/RemoteDesktopClient220.pkg/Contents/Info.plist
+9CTwG4RDvIUHDOzuiFanHQ=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopClient220.mpkg/Contents/Installers/RemoteDesktopClient220.pkg/Contents/Resources/BundleVersions.plist
+fg-T3UTJkTcLFmvfYSDczQ=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopClient220.mpkg/Contents/Installers/RemoteDesktopClient220.pkg/Contents/Resources/French.lproj/ReadMe.rtf
+eUNlK4dcoYtFVnFgvh-bBw=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopClient220.mpkg/Contents/Installers/RemoteDesktopClient220.pkg/Contents/Resources/German.lproj/ReadMe.rtf
+vQxoIPQPAXOB8ZUmU570xQ=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopClient220.mpkg/Contents/Installers/RemoteDesktopClient220.pkg/Contents/Resources/Japanese.lproj/ReadMe.rtf
+8EmudOaVGQGIm6W9LMPIMg=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopClient220.mpkg/Contents/Resources/English.lproj/Welcome.rtfd/TXT.rtf
+g18THhOp8OCWkTZ5RMvY1A=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopClient220.mpkg/Contents/Resources/French.lproj/Welcome.rtfd/TXT.rtf
+KIUk80wQkgzjVJGm3_czlg=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopClient220.mpkg/Contents/Resources/German.lproj/ReadMe.rtf
+dukqOyC2N_yttITKXtL2Ow=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopClient220.mpkg/Contents/Resources/German.lproj/Welcome.rtfd/TXT.rtf
+LTrJpZduHmsmn0CRpckxhQ=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopClient220.mpkg/Contents/Resources/Japanese.lproj/ReadMe.rtf
+ji0dkuax1OqEOV6mtHaCGA=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopClient220.mpkg/Contents/Resources/Japanese.lproj/Welcome.rtfd/TXT.rtf
+NxxS2PqiIJQ-GbPR17erpA=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopRMDB733.pkg/Contents/Archive.bom
+MIHWv0fq3jrNx523kYZa5g=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopRMDB733.pkg/Contents/Archive.pax.gz
+-HqMLVcjewDDBYFqgphGOQ=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopRMDB733.pkg/Contents/Info.plist
+6oxDMekvWol-UAeK6L3Bgg=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopRMDB733.pkg/Contents/Resources/Dutch.lproj/License.rtf
+x-KeTrgLPEnaL0ooU1nExA=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopRMDB733.pkg/Contents/Resources/English.lproj/License.rtf
+eWhtHAvMJhbZ0GcYZpCfng=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopRMDB733.pkg/Contents/Resources/French.lproj/License.rtf
+HjmeIIhS7ZJ_XAYpo1u8RQ=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopRMDB733.pkg/Contents/Resources/German.lproj/License.rtf
+GxHSE1NJrSjLcns3GUAyOg=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopRMDB733.pkg/Contents/Resources/InstallationCheck
+h3pJpw0zjESK8kWEsuANNA=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopRMDB733.pkg/Contents/Resources/Italian.lproj/License.rtf
+MR8HA9rM-NjnZVaxK4_0dw=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopRMDB733.pkg/Contents/Resources/Japanese.lproj/License.rtf
+r6zEJ6O-yEV8Bvg1NFG4zQ=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopRMDB733.pkg/Contents/Resources/Japanese.lproj/Welcome.rtf
+LG9Juz38-fIX_i161QtoBw=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopRMDB733.pkg/Contents/Resources/PlistBuddy
+XYjuODeH0cix5B7nPiHs1g=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopRMDB733.pkg/Contents/Resources/Spanish.lproj/License.rtf
+4HuCzK8zJ0KePwMnN7Yi2A=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopRMDB733.pkg/Contents/Resources/VolumeCheck
+vyCVRe2y8odp_FCg5CFnkA=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopRMDB733.pkg/Contents/Resources/da.lproj/License.rtf
+M31olDUZHaxFtxK_u_gJCg=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopRMDB733.pkg/Contents/Resources/fi.lproj/License.rtf
+k3NmQ6fXLNX4D1NY5-XtoA=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopRMDB733.pkg/Contents/Resources/ko.lproj/License.rtf
+5elchDKdBekPPx3vzG9LXg=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopRMDB733.pkg/Contents/Resources/no.lproj/License.rtf
+E1_LY8QvHFiHCipaUFjaLQ=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopRMDB733.pkg/Contents/Resources/pt.lproj/License.rtf
+LqIgI9KQUaLZHc_3cPlE9w=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopRMDB733.pkg/Contents/Resources/sv.lproj/License.rtf
+07xn7IfFrBLwgs2m3sv6ig=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopRMDB733.pkg/Contents/Resources/zh_CN.lproj/License.rtf
+JWB9yFsCC8GkEaLgiK7-Aw=A:2.2/RemoteDesktop.mpkg/Contents/Installers/RemoteDesktopRMDB733.pkg/Contents/Resources/zh_TW.lproj/License.rtf
+R7Y8HDL8yfK5RwRwTJUnbA=A:2.2/RemoteDesktop.mpkg/Contents/Resources/Japanese.lproj/Welcome.rtfd/TXT.rtf
