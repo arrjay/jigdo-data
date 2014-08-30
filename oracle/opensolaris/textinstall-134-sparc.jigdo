@@ -1,0 +1,30 @@
+# JigsawDownload
+# See <http://atterer.net/jigdo/> for details about jigdo
+
+[Jigdo]
+Version=1.2
+Generator=jigdo-file/0.7.3
+
+[Image]
+Filename=textinstall-134-sparc.iso
+Template=textinstall-134-sparc.template
+Template-MD5Sum=iLHB7QYVf2xeZuwM_eObxQ
+
+[Servers]
+A=file:
+
+[Parts]
+iiTSytq95rgOgbXnm-J83Q=A:textinstall-134-sparc/.livecd-cdrom-content
+vvcZESIKGw53F_T3p-fwqg=A:textinstall-134-sparc/boot/hsfs.bootblock
+BJ6_CyAHd3lQcun8UOwB4g=A:textinstall-134-sparc/boot/solaris/bin/create_ramdisk
+0SKZdUmploMWL1kG0Hsxug=A:textinstall-134-sparc/boot/solaris/bin/extract_boot_filelist
+7cezhjvfJC8Vp5thQZtxnA=A:textinstall-134-sparc/jack/Desktop/ddu.desktop
+-igXu2eb_T7CeyRbi_g-gw=A:textinstall-134-sparc/jack/Desktop/getting_started.desktop
+5MqzEI9PNj8cBLgzmv2Dug=A:textinstall-134-sparc/jack/Desktop/gparted.desktop
+C6wt9cWAeWL2qdiIgDV7lQ=A:textinstall-134-sparc/jack/Desktop/install_opensolaris.desktop
+5nrUlCRp33iNye4RBeg9bA=A:textinstall-134-sparc/jack/install-icon.png
+8BHljlQrGHmK1E9aftPAnA=A:textinstall-134-sparc/platform/sun4u/wanboot
+UVX28lfR6AfdJ_zlabQWuw=A:textinstall-134-sparc/platform/sun4v/wanboot
+Zjpv2VWCWn-_3fR00SjwnQ=A:textinstall-134-sparc/save/etc/system
+cJYOCYLjSTqldtGI5j_9vA=A:textinstall-134-sparc/solaris.zlib
+wz8XKctRnbRmFIXWhfdKtQ=A:textinstall-134-sparc/solarismisc.zlib
