@@ -1,0 +1,19 @@
+# JigsawDownload
+# See <http://atterer.net/jigdo/> for details about jigdo
+
+[Jigdo]
+Version=1.2
+Generator=jigdo-file/0.7.3
+
+[Image]
+Filename=LCD4_1173_00.iso
+Template=LCD4_1173_00.template
+Template-MD5Sum=m96hjv-LNjMfoNtnf_qATQ
+
+[Servers]
+A=file:
+
+[Parts]
+6rch4P8HNU7ox7ayrLfn7g=A:LCD4_1173_00/README.TXT
+LDjg50fMa5DeCVEuZFo1Zw=A:LCD4_1173_00/installp/ppc/Mozilla.base
+0Bb4PBf8tObCmiL-Vrhxig=A:LCD4_1173_00/usr/sys/inst.images/.toc
