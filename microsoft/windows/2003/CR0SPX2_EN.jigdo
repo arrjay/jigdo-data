@@ -1,0 +1,33 @@
+# JigsawDownload
+# See <http://atterer.net/jigdo/> for details about jigdo
+
+[Jigdo]
+Version=1.2
+Generator=jigdo-file/0.7.3
+
+[Image]
+Filename=CR0SPX2_EN.iso
+Template=CR0SPX2_EN.template
+Template-MD5Sum=fstx3QA7thExfenrv4IsCA
+
+[Servers]
+A=file:
+
+[Parts]
+dAR_7IfGQZDS-gc976KQYQ=A:CR0SPX2_EN/cdlaunch/shelexec.exe
+EcdKa5CbDEY2mYXDPH-lfA=A:CR0SPX2_EN/readmesp.htm
+Li1L6RQWhrYG0wDAvbSsuA=A:CR0SPX2_EN/support/symbols/symbols.cab
+f95VrslMUXWPAW4bkkbwrA=A:CR0SPX2_EN/support/symbols/symbols.cat
+CyVkeFAsowZ3a2_nETUgRQ=A:CR0SPX2_EN/support/symbols/symbols.inf
+FK_jVQimGVdm5cV1jD8BSA=A:CR0SPX2_EN/support/tools/dcdiag.exe
+IExU7PtS0bE5VcztccUQTQ=A:CR0SPX2_EN/support/tools/deploy.cab
+Evkej8nntZvQbyzSBTIb-Q=A:CR0SPX2_EN/support/tools/fastwiz.exe
+_la2p9LFRICENaIoHLodFg=A:CR0SPX2_EN/support/tools/gbunicnv.exe
+BkuMoeOvp3a3UGqEwdlUxA=A:CR0SPX2_EN/support/tools/hfdeploy.htm
+WuqrRgIdUWkQhQMFf4O-MA=A:CR0SPX2_EN/support/tools/repadmin.exe
+fV4ikolgWXWAkO4mElmjGQ=A:CR0SPX2_EN/support/tools/spdeploy.htm
+0XaLJXmJo-VbUIw-dDlV_Q=A:CR0SPX2_EN/support/tools/sup_pro.cab
+alWrB6AN_Nc56lNRlv7Crw=A:CR0SPX2_EN/support/tools/sup_srv.cab
+l_CfDymfnkG8Oo-9LV-jMQ=A:CR0SPX2_EN/support/tools/support.cab
+6hRbmTCsAyif6CacdBt4zw=A:CR0SPX2_EN/support/tools/suptools.msi
+RtBc4XRDeiJMincEfQEK6Q=A:CR0SPX2_EN/windowsserver2003.windowsxp-kb914961-sp2-x64-enu.exe
