@@ -1,0 +1,20 @@
+# JigsawDownload
+# See <http://atterer.net/jigdo/> for details about jigdo
+
+[Jigdo]
+Version=1.2
+Generator=jigdo-file/0.7.3
+
+[Image]
+Filename=multi_ICD_SOL_9_404_SPARC.iso
+Template=multi_ICD_SOL_9_404_SPARC.template
+Template-MD5Sum=yQmsSEazb1VcqJQ9VcCNDQ
+
+[Servers]
+A=file:
+
+[Parts]
+I4zFtQYpG_5Xnrf_3ns-Pw=A:multi_ICD_SOL_9_404_SPARC/Copyright
+8xVDfgBw63FkhwlXVludSA=A:multi_ICD_SOL_9_404_SPARC/add_install_client
+2uUULC1r0jlKb2jsP52-TQ=A:multi_ICD_SOL_9_404_SPARC/modify_install_server
+ZRJ-VtsEoQv9DXEwlKWvFg=A:multi_ICD_SOL_9_404_SPARC/rm_install_client
