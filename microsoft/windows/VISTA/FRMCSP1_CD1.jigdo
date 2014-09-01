@@ -1,0 +1,17 @@
+# JigsawDownload
+# See <http://atterer.net/jigdo/> for details about jigdo
+
+[Jigdo]
+Version=1.2
+Generator=jigdo-file/0.7.3
+
+[Image]
+Filename=FRMCSP1_CD1.iso
+Template=FRMCSP1_CD1.template
+Template-MD5Sum=bE1h1pzNCpKlqtkVDgivNQ
+
+[Servers]
+A=file:
+
+[Parts]
+_LO7NG0cl6Wa-S1m3K0kuQ=A:FRMCSP1_CD1/Windows6.0-KB936330-X86.exe
