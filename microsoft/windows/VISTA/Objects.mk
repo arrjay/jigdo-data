@@ -18,7 +18,9 @@ FRMEXVOL_EN_DVD.iso FRMEXVOL_EN_DVD/sources/boot.wim FRMEXVOL_EN_DVD/sources/ins
 FRMCNXFRE_EN_DVD.iso FRMCNXFRE_EN_DVD/sources/boot.wim FRMCNXFRE_EN_DVD/sources/install.wim \
 FRMCCHK_EN_DVD.iso FRMCCHK_EN_DVD/sources/boot.wim FRMCCHK_EN_DVD/sources/install.wim \
 FRMCXCHK_EN_DVD.iso FRMCXCHK_EN_DVD/sources/boot.wim FRMCXCHK_EN_DVD/sources/install.wim \
-FRMCSP1_CD1.iso FRMCSP1_DVD.iso
+FRMCSP1_CD1.iso FRMCSP1_DVD.iso \
+FRTMCFRE_EN_DVD.iso FRTMCFRE_EN_DVD/sources/boot.wim FRTMCFRE_EN_DVD/sources/install.wim \
+FRTMCXFRE_EN_DVD.iso FRTMCXFRE_EN_DVD/sources/boot.wim FRTMCXFRE_EN_DVD/sources/install.wim
 
 LRMEXVOL_EN_DVD.iso : LRMEXVOL_EN_DVD/sources/install.wim LRMEXVOL_EN_DVD/sources/boot.wim
 LRMCFRE_EN_DVD.iso : LRMCFRE_EN_DVD/sources/install.wim LRMCFRE_EN_DVD/sources/boot.wim
@@ -40,3 +42,5 @@ FRMEXVOL_EN_DVD.iso : FRMEXVOL_EN_DVD/sources/boot.wim FRMEXVOL_EN_DVD/sources/i
 FRMCNXFRE_EN_DVD.iso : FRMCNXFRE_EN_DVD/sources/boot.wim FRMCNXFRE_EN_DVD/sources/install.wim
 FRMCCHK_EN_DVD.iso : FRMCCHK_EN_DVD/sources/boot.wim FRMCCHK_EN_DVD/sources/install.wim
 FRMCXCHK_EN_DVD.iso : FRMCXCHK_EN_DVD/sources/boot.wim FRMCXCHK_EN_DVD/sources/install.wim
+FRTMCFRE_EN_DVD.iso : FRTMCFRE_EN_DVD/sources/boot.wim FRTMCFRE_EN_DVD/sources/install.wim
+FRTMCXFRE_EN_DVD.iso : FRTMCXFRE_EN_DVD/sources/boot.wim FRTMCXFRE_EN_DVD/sources/install.wim
