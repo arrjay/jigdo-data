@@ -1,0 +1,17 @@
+# JigsawDownload
+# See <http://atterer.net/jigdo/> for details about jigdo
+
+[Jigdo]
+Version=1.2
+Generator=jigdo-file/0.7.3
+
+[Image]
+Filename=MA2SPFPP_EN.iso
+Template=MA2SPFPP_EN.template
+Template-MD5Sum=8AQV4PWWK_F559I64LZiZw
+
+[Servers]
+A=file:
+
+[Parts]
+_P6wTxJ3Hu3tCv_mZImiCg=A:MA2SPFPP_EN/WindowsXPMediaCenter2005-KB900325-usa.exe

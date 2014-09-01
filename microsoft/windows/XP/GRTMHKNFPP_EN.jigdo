@@ -1,0 +1,15 @@
+# JigsawDownload
+# See <http://atterer.net/jigdo/> for details about jigdo
+
+[Jigdo]
+Version=1.2
+Generator=jigdo-file/0.7.3
+
+[Image]
+Filename=GRTMHKNFPP_EN.iso
+Template=GRTMHKNFPP_EN.template
+Template-MD5Sum=pb8-bdQXxfVGQGD5gS9ZZQ
+
+[Servers]
+
+[Parts]

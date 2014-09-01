@@ -1,0 +1,19 @@
+# JigsawDownload
+# See <http://atterer.net/jigdo/> for details about jigdo
+
+[Jigdo]
+Version=1.2
+Generator=jigdo-file/0.7.3
+
+[Image]
+Filename=XRMSD2_EN.iso
+Template=XRMSD2_EN.template
+Template-MD5Sum=rtgV-omgHHxWI_kfrQJ0Eg
+
+[Servers]
+A=file:
+
+[Parts]
+KQ2PU-wXmJtechys-N2Qhg=A:XRMSD2_EN/CMPNENTS/MEDIACTR/I386/MEDIACTR.CAB
+7nZwAWAYp0-cpQANysw03w=A:XRMSD2_EN/CMPNENTS/NETFX/I386/NETFX.CAB
+vMt-SeynXVq0I7azIhC94A=A:XRMSD2_EN/CMPNENTS/TABLETPC/I386/TABLETPC.CAB
