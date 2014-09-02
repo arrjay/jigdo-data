@@ -23,5 +23,7 @@ FRTMCXFRE_EN_DVD.iso	Windows Vista SP2 x64 DVD
 FRTMEVOL_EN_DVD.iso	Windows Vista Enterprise SP2 x86 DVD
 FRTMEXVOL_EN_DVD.iso	Windows Vista Enterprise SP2 x64 DVD
 FRTMCXNFRE_EN_DVD.iso	Windows Vista N SP2 x64 DVD
-FRTMCCHK_EN_DVD.iso	Winfows Vista Ultimate (Checked Build) SP2 x86 DVD
-FRTMCXCHK_EN_DVD.iso	Winfows Vista Ultimate (Checked Build) SP2 x64 DVD
+FRTMCCHK_EN_DVD.iso	Windows Vista Ultimate (Checked Build) SP2 x86 DVD
+FRTMCXCHK_EN_DVD.iso	Windows Vista Ultimate (Checked Build) SP2 x64 DVD
+RTMSP2.1_CD		Service Pack 2 for Windows Vista x86
+RTMSP2.1_DVD		Service Pack 2 for Windows Vista x64 + x86

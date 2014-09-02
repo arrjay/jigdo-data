@@ -1,0 +1,18 @@
+# JigsawDownload
+# See <http://atterer.net/jigdo/> for details about jigdo
+
+[Jigdo]
+Version=1.2
+Generator=jigdo-file/0.7.3
+
+[Image]
+Filename=RTMSP2.1_CD.iso
+Template=RTMSP2.1_CD.template
+Template-MD5Sum=Tr6zgWl-TPUi4aJBvyANGg
+
+[Servers]
+A=file:
+
+[Parts]
+Sn_SjQ0wEtfBtqN4W1TRUg=A:RTMSP2.1_CD/Windows6.0-KB948465-X86.exe
+4zePEdVLyaWMcxHXpaz4ow=A:RTMSP2.1_CD/setup.exe
