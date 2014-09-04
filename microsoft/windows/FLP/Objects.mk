@@ -1,0 +1,1 @@
+OBJECTS	:= WIN51FLP.iso
