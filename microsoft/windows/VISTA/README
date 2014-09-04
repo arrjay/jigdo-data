@@ -18,6 +18,8 @@ FRMCCHK_EN_DVD.iso	Windows Vista Ultimate (Checked Build) SP1 x86 DVD
 FRMCXCHK_EN_DVD.iso	Windows Vista Ultimate (Checked Build) SP1 x64 DVD
 FRMCSP1_CD1.iso		Service Pack 1 for Windows Vista x86
 FRMCSP1_DVD.iso		Service Pack 1 for Windows Vista x64 + x86
+FRMCLP1_DVD.iso		Windows Vista x86 SP1 Language Pack
+FRMCLPX1_DVD.iso	Windows Vista x64 SP1 Language Pack
 FRTMCFRE_EN_DVD.iso	Windows Vista SP2 x86 DVD
 FRTMCXFRE_EN_DVD.iso	Windows Vista SP2 x64 DVD
 FRTMEVOL_EN_DVD.iso	Windows Vista Enterprise SP2 x86 DVD
@@ -27,4 +29,6 @@ FRTMCCHK_EN_DVD.iso	Windows Vista Ultimate (Checked Build) SP2 x86 DVD
 FRTMCXCHK_EN_DVD.iso	Windows Vista Ultimate (Checked Build) SP2 x64 DVD
 RTMSP2.1_CD		Service Pack 2 for Windows Vista x86
 RTMSP2.1_DVD		Service Pack 2 for Windows Vista x64 + x86
+FRTMCLP1_DVD.iso	Windows Vista x86 SP2 Language Pack (en, fr, de, es)
+FRTMCXLP1_DVD.iso	Windows Vista x64 SP2 Language Pack (en, fr, de, es)
 WLHAIK.iso		Windows Vista Automated Installation Kit

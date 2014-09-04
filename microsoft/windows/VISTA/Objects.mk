@@ -27,6 +27,7 @@ FRTMCXNFRE_EN_DVD.iso FRTMCXNFRE_EN_DVD/sources/boot.wim FRTMCXNFRE_EN_DVD/sourc
 FRTMCXCHK_EN_DVD.iso FRTMCXCHK_EN_DVD/sources/boot.wim FRTMCXCHK_EN_DVD/sources/install.wim \
 FRTMCCHK_EN_DVD.iso FRTMCCHK_EN_DVD/sources/boot.wim FRTMCCHK_EN_DVD/sources/install.wim \
 RTMSP2.1_CD.iso RTMSP2.1_DVD.iso \
+FRMCLP1_DVD.iso FRMCLPX1_DVD.iso FRTMCLP1_DVD.iso FRTMCXLP1_DVD.iso \
 WLHAIK.iso
 
 LRMEXVOL_EN_DVD.iso : LRMEXVOL_EN_DVD/sources/install.wim LRMEXVOL_EN_DVD/sources/boot.wim

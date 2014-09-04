@@ -1,0 +1,20 @@
+# JigsawDownload
+# See <http://atterer.net/jigdo/> for details about jigdo
+
+[Jigdo]
+Version=1.2
+Generator=jigdo-file/0.7.3
+
+[Image]
+Filename=FRMCLP1_DVD.iso
+Template=FRMCLP1_DVD.template
+Template-MD5Sum=7Be4TvbNDSbmzhyWw9c_uA
+
+[Servers]
+A=file:
+
+[Parts]
+K08VdeTEh769fGyit7aHpg=A:FRMCLP1_DVD/langpacks/de-de/lp.cab
+GJALX0w2pcW6_CkLvGg-qA=A:FRMCLP1_DVD/langpacks/en-us/lp.cab
+E-82z5fB09aYTXjkTyWmtw=A:FRMCLP1_DVD/langpacks/es-es/lp.cab
+ZOYGRT9wPVSmtmJYAfd5YQ=A:FRMCLP1_DVD/langpacks/fr-fr/lp.cab
