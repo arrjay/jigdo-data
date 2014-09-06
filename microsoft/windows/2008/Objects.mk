@@ -1,0 +1,1 @@
+OBJECTS	:= GRMSXVOL_EN_DVD.iso
