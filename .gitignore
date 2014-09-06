@@ -254,3 +254,8 @@ microsoft/windows/7/*/support/
 microsoft/windows/7/*/langpacks/
 microsoft/windows/7/*/upgrade/
 microsoft/windows/7/*/Sources/install?/
+oracle/solaris/10/SOL_10_*_X86/
+oracle/solaris/10/SOL_10_*_X86_*/
+oracle/solaris/10/SOL_10_*_SPARC/
+oracle/solaris/10/SOL_10_*_SPARC*/
+oracle/solaris/10/S10_1009_SOFTWARE_COMPANION/
