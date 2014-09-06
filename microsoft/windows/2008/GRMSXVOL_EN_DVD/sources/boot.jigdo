@@ -1,0 +1,18 @@
+# JigsawDownload
+# See <http://atterer.net/jigdo/> for details about jigdo
+
+[Jigdo]
+Version=1.2
+Generator=jigdo-file/0.7.3
+
+[Image]
+Filename=boot.wim
+Template=boot.template
+Template-MD5Sum=7yhE6zwWW-M3ES_VkzhVHQ
+
+[Servers]
+A=file:
+
+[Parts]
+JmU9HCbp4qpd1ZY1S6n68w=A:boot/2/Windows/winsxs/amd64_microsoft-windows-bootres_31bf3856ad364e35_6.1.7601.17514_none_9d42c69298905ee5/bootres.dll
+P48ZsUInhvVBLFQrWmvdag=A:boot/[1].xml
