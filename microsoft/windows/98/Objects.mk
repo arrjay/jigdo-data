@@ -1,0 +1,1 @@
+OBJECTS	:= WIN98_SE.iso
