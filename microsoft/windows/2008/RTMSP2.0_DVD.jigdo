@@ -1,0 +1,20 @@
+# JigsawDownload
+# See <http://atterer.net/jigdo/> for details about jigdo
+
+[Jigdo]
+Version=1.2
+Generator=jigdo-file/0.7.3
+
+[Image]
+Filename=RTMSP2.0_DVD.iso
+Template=RTMSP2.0_DVD.template
+Template-MD5Sum=8ie4mv2qZ9wyFS3vCD8itQ
+
+[Servers]
+A=file:
+
+[Parts]
+syQ6GvBjKzjGYZxN513aFA=A:RTMSP2.0_DVD/Windows6.0-KB948465-IA64.exe
+o7yx_9s2Y5f6X6sImOsJjQ=A:RTMSP2.0_DVD/Windows6.0-KB948465-X64.exe
+yTlP0y2xVhkyivT_AxV1Cg=A:RTMSP2.0_DVD/Windows6.0-KB948465-X86.exe
+4zePEdVLyaWMcxHXpaz4ow=A:RTMSP2.0_DVD/setup.exe
