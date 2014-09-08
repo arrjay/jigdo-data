@@ -1,0 +1,29 @@
+# JigsawDownload
+# See <http://atterer.net/jigdo/> for details about jigdo
+
+[Jigdo]
+Version=1.2
+Generator=jigdo-file/0.7.3
+
+[Image]
+Filename=en_windows_storage_server_2008_iscsi_tools_cd_x64_x86_x15-63368.iso
+Template=en_windows_storage_server_2008_iscsi_tools_cd_x64_x86_x15-63368.template
+Template-MD5Sum=9wOuu9lM6bf6FlDrv3Pc9w
+
+[Servers]
+A=file:
+
+[Parts]
+oQf23fVJ2tN7Q6BE02k4YA=A:en_windows_storage_server_2008_iscsi_tools_cd_x64_x86_x15-63368/DE-DE/ISCSITARGET_GSTART.DOC
+ho9JHqW-fEdNrs3l_oBDPg=A:en_windows_storage_server_2008_iscsi_tools_cd_x64_x86_x15-63368/ES-ES/ISCSITARGET_GSTART.DOC
+F0MxmGBJvPAh778nx_50Vg=A:en_windows_storage_server_2008_iscsi_tools_cd_x64_x86_x15-63368/FR-FR/ISCSITARGET_GSTART.DOC
+fvls_D1OElCZQKD_DRdDDg=A:en_windows_storage_server_2008_iscsi_tools_cd_x64_x86_x15-63368/ISCSITARGET_GSTART.DOC
+OM4qeAyozToILTGCb7gAXg=A:en_windows_storage_server_2008_iscsi_tools_cd_x64_x86_x15-63368/ISCSITARGET_OEMGUIDE.CHM
+3ElzrYy5VJdSAB2jR0efHw=A:en_windows_storage_server_2008_iscsi_tools_cd_x64_x86_x15-63368/ISCSITARGET_OEMGUIDE.DOC
+5PLDLvPdjcImWaO4yqUdlA=A:en_windows_storage_server_2008_iscsi_tools_cd_x64_x86_x15-63368/ISCSI_RELNOTES.DOC
+-r9Y59cewilwWKyM6uesQg=A:en_windows_storage_server_2008_iscsi_tools_cd_x64_x86_x15-63368/IT-IT/ISCSITARGET_GSTART.DOC
+tw9d8_9ju1QP18tVTs5YYA=A:en_windows_storage_server_2008_iscsi_tools_cd_x64_x86_x15-63368/JA-JP/ISCSITARGET_GSTART.DOC
+TC8Ane9MibTz6r7Z8j7wSA=A:en_windows_storage_server_2008_iscsi_tools_cd_x64_x86_x15-63368/KO-KR/ISCSITARGET_GSTART.DOC
+3eV1ZKnI6hfPN6SBjo8LkQ=A:en_windows_storage_server_2008_iscsi_tools_cd_x64_x86_x15-63368/RU-RU/ISCSITARGET_GSTART.DOC
+yAQx1grKuD5EyPC2RhzokA=A:en_windows_storage_server_2008_iscsi_tools_cd_x64_x86_x15-63368/ZH-CN/ISCSITARGET_GSTART.DOC
+pWsMcBot23CBPH2SBW0fbQ=A:en_windows_storage_server_2008_iscsi_tools_cd_x64_x86_x15-63368/ZH-TW/ISCSITARGET_GSTART.DOC

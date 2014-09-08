@@ -1,0 +1,21 @@
+# JigsawDownload
+# See <http://atterer.net/jigdo/> for details about jigdo
+
+[Jigdo]
+Version=1.2
+Generator=jigdo-file/0.7.3
+
+[Image]
+Filename=KRMSLPX1_DVD.iso
+Template=KRMSLPX1_DVD.template
+Template-MD5Sum=31gPH33ruEXpqySORzLplw
+
+[Servers]
+A=file:
+
+[Parts]
+3hgz0yi_QAl4TB7nAG8-cg=A:KRMSLPX1_DVD/langpacks/de-de/lp.cab
+NEvEU4VUNnRl71YDpv-YWQ=A:KRMSLPX1_DVD/langpacks/en-us/lp.cab
+c6YOBfecDERclH-libafJg=A:KRMSLPX1_DVD/langpacks/es-es/lp.cab
+0_uNHGgyHRfppWc11yWEjQ=A:KRMSLPX1_DVD/langpacks/fr-fr/lp.cab
+XNTQXjSth5YsY3A-2UZ3Jw=A:KRMSLPX1_DVD/langpacks/ja-jp/lp.cab

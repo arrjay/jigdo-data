@@ -1,0 +1,17 @@
+# JigsawDownload
+# See <http://atterer.net/jigdo/> for details about jigdo
+
+[Jigdo]
+Version=1.2
+Generator=jigdo-file/0.7.3
+
+[Image]
+Filename=mu_windows_storage_server_2008_r2_embed_stand_ent_work_iscsi_software_target_3.3__x64_dvd_587719.iso
+Template=mu_windows_storage_server_2008_r2_embed_stand_ent_work_iscsi_software_target_3.3__x64_dvd_587719.template
+Template-MD5Sum=iJfUaLx58kZ_w6TfSf43-Q
+
+[Servers]
+A=file:
+
+[Parts]
+IqPs_X1JZG2KXubkAbREew=A:mu_windows_storage_server_2008_r2_embed_stand_ent_work_iscsi_software_target_3.3__x64_dvd_587719/WSS2008R2+iSCSITarget33.exe
