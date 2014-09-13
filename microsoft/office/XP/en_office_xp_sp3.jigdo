@@ -1,0 +1,18 @@
+# JigsawDownload
+# See <http://atterer.net/jigdo/> for details about jigdo
+
+[Jigdo]
+Version=1.2
+Generator=jigdo-file/0.7.3
+
+[Image]
+Filename=en_office_xp_sp3.iso
+Template=en_office_xp_sp3.template
+Template-MD5Sum=PjxicHWnAjTj8aY2v2u6pQ
+
+[Servers]
+A=file:
+
+[Parts]
+vYJuJWT3EJ8JZY3Mx7q8gg=A:en_office_xp_sp3/fullfile/sp3cdff.exe
+U5KTTUjcZa9EF9CubFvxrw=A:en_office_xp_sp3/standard/sp3cdop.exe
