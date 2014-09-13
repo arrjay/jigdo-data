@@ -1,0 +1,27 @@
+# JigsawDownload
+# See <http://atterer.net/jigdo/> for details about jigdo
+
+[Jigdo]
+Version=1.2
+Generator=jigdo-file/0.7.3
+
+[Image]
+Filename=en_mappoint2002_run_vl.iso
+Template=en_mappoint2002_run_vl.template
+Template-MD5Sum=5-IxIN1LhRt-GHTh5XqfuQ
+
+[Servers]
+A=file:
+
+[Parts]
+xF0xwOag5baKGYIL45knRQ=A:en_mappoint2002_run_vl/cd2run.exe
+DNGRImgBsmzXQsCvefCpjg=A:en_mappoint2002_run_vl/mp.ico
+S2UCLhcocht1JIx0Ar1J4w=A:en_mappoint2002_run_vl/msmap/pfiles/msmap/data/usa_cd.mad
+Z6l_nMpour5EQsG09gUJnQ=A:en_mappoint2002_run_vl/msmap/pfiles/msmap/data/usaroute.ndx
+RS7g5hQMGQhCOBShK46NPA=A:en_mappoint2002_run_vl/pstreets/data1.cab
+gDUPLwPTdBnZ3HnggogPWQ=A:en_mappoint2002_run_vl/pstreets/data1.hdr
+hs-frWamzqMSjwpj6EJKNw=A:en_mappoint2002_run_vl/pstreets/data2.cab
+Y3NuFdYGHxLQ6pzJWG7pMQ=A:en_mappoint2002_run_vl/pstreets/ikernel.ex_
+LfVln7QvnBgYjReVHrM9QA=A:en_mappoint2002_run_vl/pstreets/readme.txt
+sbiLYsgkdWYWVAZML-5nSA=A:en_mappoint2002_run_vl/pstreets/setup.exe
+sn1YFzUjudUwdcJtYUyGdw=A:en_mappoint2002_run_vl/pstreets/setup.inx

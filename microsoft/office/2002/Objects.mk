@@ -1,0 +1,1 @@
+OBJECTS	:= en_frontpage2002_select.iso en_mappoint2002_run_vl.iso en_mappoint2002_setup_vl.iso en_project2002_pro_vl.iso en_project2002_std_retail.iso en_project2002_std_select.iso en_project2002_training.iso en_visio2002_pro_select.iso en_visio2002_std_select.iso
