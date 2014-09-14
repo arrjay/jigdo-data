@@ -1,0 +1,28 @@
+# JigsawDownload
+# See <http://atterer.net/jigdo/> for details about jigdo
+
+[Jigdo]
+Version=1.2
+Generator=jigdo-file/0.7.3
+
+[Image]
+Filename=sol-11-exp-201011-text-sparc.iso
+Template=sol-11-exp-201011-text-sparc.template
+Template-MD5Sum=RzDfw9ebC-SX57jE3BE8BA
+
+[Servers]
+A=file:
+
+[Parts]
+FFfo_WSotoDh7vrcRIuaCw=A:sol-11-exp-201011-text-sparc/.livecd-cdrom-content
+vvcZESIKGw53F_T3p-fwqg=A:sol-11-exp-201011-text-sparc/boot/hsfs.bootblock
+BJ6_CyAHd3lQcun8UOwB4g=A:sol-11-exp-201011-text-sparc/boot/solaris/bin/create_ramdisk
+0SKZdUmploMWL1kG0Hsxug=A:sol-11-exp-201011-text-sparc/boot/solaris/bin/extract_boot_filelist
+7cezhjvfJC8Vp5thQZtxnA=A:sol-11-exp-201011-text-sparc/jack/Desktop/ddu.desktop
+-QTMBI6votE8i8sNemIcpA=A:sol-11-exp-201011-text-sparc/jack/Desktop/getting_started.desktop
+5MqzEI9PNj8cBLgzmv2Dug=A:sol-11-exp-201011-text-sparc/jack/Desktop/gparted.desktop
+cOiSRO4l8nlHSiKoZOSw0g=A:sol-11-exp-201011-text-sparc/jack/Desktop/install_opensolaris.desktop
+4OaQuEhmeME7F6R5Q5dXnw=A:sol-11-exp-201011-text-sparc/platform/sun4u/wanboot
+Zjpv2VWCWn-_3fR00SjwnQ=A:sol-11-exp-201011-text-sparc/save/etc/system
+utkuAvekbmJ3znvyaOm-iQ=A:sol-11-exp-201011-text-sparc/solaris.zlib
+R6fmXAbLp-73E8twPpVaZA=A:sol-11-exp-201011-text-sparc/solarismisc.zlib
