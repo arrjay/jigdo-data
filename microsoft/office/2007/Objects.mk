@@ -1,0 +1,1 @@
+OBJECTS	:= OFFICE12.iso
