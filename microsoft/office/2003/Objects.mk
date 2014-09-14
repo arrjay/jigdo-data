@@ -1,0 +1,1 @@
+OBJECTS	:= en_office_2003_professional_enterprise_vl.iso en_project2003_std_vl.iso
