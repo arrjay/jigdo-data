@@ -1,0 +1,17 @@
+# JigsawDownload
+# See <http://atterer.net/jigdo/> for details about jigdo
+
+[Jigdo]
+Version=1.2
+Generator=jigdo-file/0.7.3
+
+[Image]
+Filename=MICROSOFTOFFICE2011.iso
+Template=MICROSOFTOFFICE2011.template
+Template-MD5Sum=VL391Dns8GiR78qEaa6o4g
+
+[Servers]
+A=file:
+
+[Parts]
+UreNIhFqACGhDsmj1sHFAA=A:MICROSOFTOFFICE2011/X17-45975_ENU_MACOFC_SP1.DMG
