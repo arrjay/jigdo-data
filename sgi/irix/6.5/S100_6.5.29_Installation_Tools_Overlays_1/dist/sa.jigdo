@@ -1,0 +1,19 @@
+# JigsawDownload
+# See <http://atterer.net/jigdo/> for details about jigdo
+
+[Jigdo]
+Version=1.2
+Generator=jigdo-file/0.7.3
+
+[Image]
+Filename=sa
+Template=sa.template
+Template-MD5Sum=QvT7q8BfI-2gPa_hVZRiow
+
+[Servers]
+A=file:
+
+[Parts]
+Bw__oDMLqcAa6Vd4Bg1aaQ=A:sa.contents/mr
+jWUm1DM_on5JlAyzs_RJFw=A:sa.contents/sash64
+CsBVP5rPIcvbQph4SZZwXw=A:sa.contents/sashARCS
